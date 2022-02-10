@@ -9,11 +9,8 @@ if(isset($_GET['pagina'])){
 		header("Location: " .$enlace );
 	}
 	else{
-	  echo 'error'.$_GET['pagina'];
+		header("Location: error-404");
 	}
-  }
-  else{
-	$enlace = 'home';
-	header("Location: home");
-  }
+}
+  
 ?>
