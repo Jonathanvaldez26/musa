@@ -122,7 +122,7 @@ Main Banner START -->
 											<h1 class="mb-0 text-white display-6">Académico</h1>
 											<p class="text-white">Consulta los Programas, Cursos y Pláticas.</p>
 											<!-- Button -->
-											<a href="/programa-academico.html" class="btn btn-danger mb-0">Consultar</a>
+											<a href="programa-academico" class="btn btn-danger mb-0">Consultar</a>
 										</div>
 									</div>
 								</div>
@@ -154,7 +154,7 @@ Main Banner START -->
 											<h1 class="mb-0 text-white display-6">Sociales</h1>
 											<p class="text-white">Consulta todos los eventos y actividades que ofrecemos, tanto en grupo como individual y diviértete con nosotros.</p>
 											<!-- Button -->
-											<a href="/eventos-sociales.html" class="btn btn-warning mb-0">Visitar</a>
+											<a href="eventos-sociales" class="btn btn-warning mb-0">Visitar</a>
 										</div>
 									</div>
 								</div>
@@ -186,7 +186,7 @@ Main Banner START -->
 											<h1 class="mb-0 text-white display-6">y Bebidas</h1>
 											<p class="text-white">Visita nuestra página del Menú con una amplia variedad de Alimentos</p>
 											<!-- Button -->
-											<a href="/menu-list.html" class="btn btn-success mb-0">Ver Menú</a>
+											<a href="menu-list" class="btn btn-success mb-0">Ver Menú</a>
 										</div>
 									</div>
 								</div>
