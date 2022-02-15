@@ -166,7 +166,7 @@ Inner part START -->
 					<div class="row g-0">
 						<!-- Image -->
 						<div class="col-md-4">
-							<img src="assets/images/instructor/03.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+							<img src="assets/images/instructor/plato-fuerte.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
 						</div>
 
 						<!-- Card body -->
