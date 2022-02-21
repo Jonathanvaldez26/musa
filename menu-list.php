@@ -117,12 +117,12 @@ Inner part START -->
 				<div class="card shadow p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<img src="assets/images/menu/pina-colada.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
 						</div>
 
 						<!-- Card body -->
-						<div class="col-md-8">
+						<div class="col-md-8 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
@@ -130,7 +130,7 @@ Inner part START -->
 										<h5 class="card-title mb-0"><a href="#">Entradas</a></h5>
 										<p class="small mb-2 mb-sm-0" hidden>Bebidas para todo público</p>
 									</div>
-									<span id="price-card" class="h6 fw-light">
+									<!-- <span id="price-card" class="h6 fw-light"> -->
 										<!-- <i class="fas fa-dollar-sign text-success ms-1"></i>
 										50.00</span> -->
 								</div>
@@ -140,21 +140,22 @@ Inner part START -->
 								
 							</div>
 						</div>
+						<div class="d-sm-flex justify-content-sm-between align-items-center">
+							<ul>
+								<li class="li-numb">
+									<p>
+										Tartar de Salmón, aguacate y piña rostizada
+									</p>
+								</li>
+								<li class="li-numb">
+									<p>
+										Tostada de marlin, alíoli de chipotle y microgreens.
+									</p>
+								</li>
+							</ul>
+						</div>
 					</div>
-					<div class="d-sm-flex justify-content-sm-between align-items-center">
-						<ul>
-							<li class="li-numb">
-								<p>
-									Tartar de Salmón, aguacate y piña rostizada
-								</p>
-							</li>
-							<li class="li-numb">
-								<p>
-									Tostada de marlin, alíoli de chipotle y microgreens.
-								</p>
-							</li>
-						</ul>
-					</div>
+					
 				</div>
 			</div>
 			<!-- Card item END -->
@@ -170,7 +171,7 @@ Inner part START -->
 						</div>
 
 						<!-- Card body -->
-						<div class="col-md-8">
+						<div class="col-md-8 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
@@ -215,7 +216,7 @@ Inner part START -->
 						</div>
 
 						<!-- Card body -->
-						<div class="col-md-8">
+						<div class="col-md-8 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
@@ -223,7 +224,7 @@ Inner part START -->
 										<h5 class="card-title mb-0"><a href="#">Postres</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Postres para todas las edades.</p> -->
 									</div>
-									<span id="price-card" class="h6 fw-light">
+									<!-- <span id="price-card" class="h6 fw-light"> -->
 										<!-- <i class="fas fa-dollar-sign text-success ms-1"></i>
 										80.00</span> -->
 								</div>
