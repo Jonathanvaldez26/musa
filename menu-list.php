@@ -117,8 +117,8 @@ Inner part START -->
 				<div class="card shadow p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-3">
-							<img src="assets/images/menu/pina-colada.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+						<div class="col-md-4 text-center">
+							<img id="img-card" src="assets/images/menu/pina-colada.jpg" class="rounded-3" alt="..." >
 						</div>
 
 						<!-- Card body -->
@@ -127,29 +127,39 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0"><a href="#">Entradas</a></h5>
-										<p class="small mb-2 mb-sm-0" hidden>Bebidas para todo público</p>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entradas</a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Platos fuertes y entradas para todos</p> -->
 									</div>
-									<!-- <span id="price-card" class="h6 fw-light"> -->
-										<!-- <i class="fas fa-dollar-sign text-success ms-1"></i>
-										50.00</span> -->
+									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
 								<p class="text-truncate-2 mb-3">Pruebe nuestra amplia variedad de Entradas.</p>
-								<!-- Info -->
-								
+								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
+									<ul>
+										<li class="li-numb">
+											<p>
+												Salmón con mantequilla de cilantro y verduras rostizadas.
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Confit de pato en mole afrutado.
+											</p>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
-						<div class="d-sm-flex justify-content-sm-between align-items-center">
+						<div id="card-desk" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 							<ul>
 								<li class="li-numb">
 									<p>
-										Tartar de Salmón, aguacate y piña rostizada
+										Salmón con mantequilla de cilantro y verduras rostizadas.
 									</p>
 								</li>
 								<li class="li-numb">
 									<p>
-										Tostada de marlin, alíoli de chipotle y microgreens.
+										Confit de pato en mole afrutado.
 									</p>
 								</li>
 							</ul>
@@ -159,14 +169,13 @@ Inner part START -->
 				</div>
 			</div>
 			<!-- Card item END -->
-
 			
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-4">
 				<div class="card shadow p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-4">
+						<div class="col-md-4 text-center">
 							<img src="assets/images/instructor/plato-fuerte.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
 						</div>
 
@@ -176,17 +185,30 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0"><a href="#">Platos Fuertes</a></h5>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Platos Fuertes</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Platos fuertes y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
 								<p class="text-truncate-2 mb-3">Pruebe nuesta gran variedad de Platillos.</p>
-								
+								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
+									<ul>
+										<li class="li-numb">
+											<p>
+												Salmón con mantequilla de cilantro y verduras rostizadas.
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Confit de pato en mole afrutado.
+											</p>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
-						<div class="col-md-8 d-sm-flex justify-content-sm-between align-items-center">
+						<div id="card-desk" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 							<ul>
 								<li class="li-numb">
 									<p>
@@ -221,7 +243,7 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0"><a href="#">Postres</a></h5>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Postres</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Postres para todas las edades.</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light"> -->
@@ -230,10 +252,26 @@ Inner part START -->
 								</div>
 								<!-- Content -->
 								<p class="text-truncate-2 mb-3">Pruebe nuestra gran variedad de postres.</p>
+							
+								<div id="card-movil" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
+									<ul>
+										<li class="li-numb">
+											<p>
+												Profiteroles.
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Las tres texturas de chocolate.
+											</p>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
+						
 					</div>
-					<div class="d-sm-flex justify-content-sm-between align-items-center">
+					<div id="card-desk" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
 						<ul>
 							<li class="li-numb">
 								<p>

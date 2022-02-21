@@ -21544,5 +21544,32 @@ html[dir=rtl] .choices__input {
   font-size: medium;
 }
 
+@media (max-width: 1200px) {
+    #card-desk{
+      display: none !important;
+    }
+
+    #img-card{
+        max-width: 80% !important;
+    }
+
+    .text-center-movil{
+      text-align: center;
+    }
+
+    #title-card {
+      margin: auto;
+  }
+}
+
+@media (min-width: 1201px) {
+  #card-movil{
+    display: none !important;
+  }
+}
+
+
+
+
 /*User CSS*/
 /*# sourceMappingURL=style.css.map */
