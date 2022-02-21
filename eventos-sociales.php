@@ -159,8 +159,8 @@ Page Banner START -->
 			<div class="col-md-6 text-center">
 				<!-- Image -->
 				<img 
-					style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 50%; background: lightcoral;" 
-					src="assets/images/coctel_1.png" 
+					style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 5%; background: lightcoral;" 
+					src="assets/images/evento-2.jpeg" 
 					class="h-300px h-xl-400px" 
 					alt="">
 			</div>
@@ -244,15 +244,15 @@ Page Banner START -->
 			<div id="derecha" class="col-md-6" style="text-align: center;">
 				<!-- Image -->
 				<img 
-					style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 50%;" 
-					src="assets/images/cena.png" 
+					style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%;" 
+					src="assets/images/evento-1.jpeg" 
 					class="h-300px h-xl-400px" 
 					alt="">
 			</div>
 			
 			<div class="col-md-6">
 				<!-- Title -->
-				<h2 style="color: white; text-shadow: 0px 5px 7px #aaa">Cena de Clausura</h2>
+				<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
 				<h6 style="color: white;">29 Abril 2022</h6>
 				<p style="color: #ddd;">Sea participe de nuestro evento final y acompañenos para pasar una agradable velada.</p>
 				<!-- Button -->
