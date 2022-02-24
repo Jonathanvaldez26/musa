@@ -116,7 +116,7 @@ img.light-mode-item {
 	}
 
 	.card-size-movil {
-		height: 560px;
-		max-height: 555px !important;
+		height: 100%;
+		max-height: -webkit-fill-available !important;
 	}
 }

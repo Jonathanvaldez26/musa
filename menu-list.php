@@ -107,7 +107,7 @@ Inner part START -->
 		
 		<!-- Instructor list START -->
 
-		<h1 class="text-xl-center">Categorias</h1>
+		<h1 class="text-xl-center text-center">Categorias</h1>
 		<br><br>
 
 		<div class="row g-4 justify-content-center">
