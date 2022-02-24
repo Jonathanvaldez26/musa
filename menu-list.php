@@ -36,7 +36,7 @@
 	<nav class="navbar navbar-expand-xl">
 		<div class="container">
 			<!-- Logo START -->
-			<a class="navbar-brand" href="home">
+			<a class="navbar-brand" style="margin: 0px;" href="home">
 				<img class="logo-head" src="assets/images/musa-01.png" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
@@ -118,7 +118,7 @@ Inner part START -->
 					<div class="row g-0">
 						<!-- Image -->
 						<div class="col-md-4 text-center">
-							<img id="img-card" src="assets/images/menu/pina-colada.jpg" class="rounded-3" alt="..." >
+							<img src="assets/images/menu/tarta-salmon.jpg" class="rounded-3" alt="..." >
 						</div>
 
 						<!-- Card body -->
@@ -133,7 +133,7 @@ Inner part START -->
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<p class="text-truncate-2 mb-3">Pruebe nuestra amplia asdsadasd variedad de Entradas.</p>
+								<p class="text-truncate-2 mb-3">Pruebe nuestra amplia variedad de Entradas.</p>
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul>
 										<li class="li-numb">
@@ -150,7 +150,7 @@ Inner part START -->
 								</div>
 							</div>
 						</div>
-						<div id="card-desk" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
+						<div id="card-desk" class="justify-content-sm-between align-items-center">
 							<ul>
 								<li class="li-numb">
 									<p>
@@ -176,7 +176,7 @@ Inner part START -->
 					<div class="row g-0">
 						<!-- Image -->
 						<div class="col-md-4 text-center">
-							<img src="assets/images/instructor/plato-fuerte.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+							<img src="assets/images/menu/salmon-0.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
 						</div>
 
 						<!-- Card body -->
@@ -208,7 +208,7 @@ Inner part START -->
 								</div>
 							</div>
 						</div>
-						<div id="card-desk" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
+						<div id="card-desk" class="justify-content-sm-between align-items-center">
 							<ul>
 								<li class="li-numb">
 									<p>
@@ -234,7 +234,7 @@ Inner part START -->
 					<div class="row g-0">
 						<!-- Image -->
 						<div class="col-md-4">
-							<img src="assets/images/menu/pastel-chocolate.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+							<img src="assets/images/menu/profiteroles.jpg" class="rounded-3" alt="..." style="max-width: -webkit-fill-available;">
 						</div>
 
 						<!-- Card body -->
@@ -271,7 +271,7 @@ Inner part START -->
 						</div>
 						
 					</div>
-					<div id="card-desk" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
+					<div id="card-desk" class="justify-content-sm-between align-items-center">
 						<ul>
 							<li class="li-numb">
 								<p>
