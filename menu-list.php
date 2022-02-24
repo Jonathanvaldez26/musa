@@ -133,17 +133,17 @@ Inner part START -->
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<p class="text-truncate-2 mb-3">Pruebe nuestra amplia variedad de Entradas.</p>
+								<p class="text-truncate-2 mb-3">Pruebe nuestra amplia asdsadasd variedad de Entradas.</p>
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul>
 										<li class="li-numb">
 											<p>
-												Salmón con mantequilla de cilantro y verduras rostizadas.
+												Tartar de Salmón, aguacate y piña rostizada 
 											</p>
 										</li>
 										<li class="li-numb">
 											<p>
-												Confit de pato en mole afrutado.
+												Tostada de marlin, alíoli de chipotle y microgreens.
 											</p>
 										</li>
 									</ul>
@@ -154,12 +154,12 @@ Inner part START -->
 							<ul>
 								<li class="li-numb">
 									<p>
-										Salmón con mantequilla de cilantro y verduras rostizadas.
+									Tartar de Salmón, aguacate y piña rostizada 
 									</p>
 								</li>
 								<li class="li-numb">
 									<p>
-										Confit de pato en mole afrutado.
+									Tostada de marlin, alíoli de chipotle y microgreens.
 									</p>
 								</li>
 							</ul>
