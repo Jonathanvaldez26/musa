@@ -462,7 +462,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">09:00:00 - 19:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Regreso a residencias</h4>
-					</li>
+					</li> 
 				</ul>
 			</div>
 		</div>
