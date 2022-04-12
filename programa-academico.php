@@ -164,7 +164,7 @@ Category START -->
 						<!-- Icon -->
 						<div class="icon-lg bg-danger bg-opacity-10 rounded-circle text-danger"><i class="fas fa-heartbeat"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 1</a></h5>
+							<h5 class="mb-0"><a href="#b1" class="stretched-link">Bloque 1</a></h5>
 							<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
 						</div>
 					</div>
@@ -178,7 +178,7 @@ Category START -->
 						<!-- Icon -->
 						<div class="icon-lg bg-blue bg-opacity-10 rounded-circle text-blue"><i class="fas fa-photo-video"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 2</a></h5>
+							<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
 							<span>INFECCIONES GENITOURINARIAS</span>
 						</div>
 					</div>
@@ -192,7 +192,7 @@ Category START -->
 						<!-- Icon -->
 						<div class="icon-lg bg-success bg-opacity-10 rounded-circle text-success"><i class="fas fa-laptop-code"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 3</a></h5>
+							<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
 							<span>CLIMATERIO</span>
 						</div>
 					</div>
@@ -208,7 +208,7 @@ Category START -->
 							<i class="fas fa-tools"></i>
 						</div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 4</a></h5>
+							<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
 							<span>UNA HORMONA VITAL</span>
 						</div>
 						
@@ -227,10 +227,10 @@ Inicio del Programa -->
 <section class="" style="background-image: url('/assets/images/musa_fondo.jpeg');">
 	<div class="mx-6">
 		<div class="row mx-9 my-4" id="28-abril" >
-			<div class="col-2">
-				<img src="" alt="28 Abril">
+			<div class="col-3">
+				<img style="border-radius: 25px;" src="/assets/images/28-abril" alt="28 Abril">
 			</div>
-			<div class="col-10">
+			<div class="col-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
@@ -244,10 +244,10 @@ Inicio del Programa -->
 			</div>
 		</div>
 		<div class="row mx-9 my-4" id="29-abril" >
-			<div class="col-2">
-				<img src="" alt="29 Abril">
+			<div class="col-3">
+				<img style="border-radius: 25px;" src="/assets/images/29-abril" alt="29 Abril">
 			</div>
-			<div class="col-10">
+			<div class="col-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
@@ -264,7 +264,7 @@ Inicio del Programa -->
 						<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
 					</li>
 				</ul>
-				<ul class="list-group">
+				<ul id="b1" class="list-group">
 					<li class="list-group-item list-borderless my-2">
 						<h3 style="color: rgb(242 101 251);">BLOQUE 1: HORMONAS, SALUD SEXUAL Y EMOTIVA:
 						EL ARTE DE PRESCRIBIR</h3>
@@ -293,7 +293,7 @@ Inicio del Programa -->
 						<h4  style="color: rgb(98 56 246);">Coffee break</h4>
 					</li>
 				</ul>
-				<ul class="list-group">
+				<ul id="b2" class="list-group">
 					<li class="list-group-item list-borderless my-2">
 						<h3 style="color: rgb(242 101 251);">BLOQUE 2: INFECCIONES GENITOURINARIAS </h3>
 					</li>
@@ -326,7 +326,7 @@ Inicio del Programa -->
 						<h4  style="color: rgb(98 56 246);">Comida</h4>
 					</li>
 				</ul>
-				<ul class="list-group">
+				<ul id="b3" class="list-group">
 					<li class="list-group-item list-borderless my-2">
 						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
 					</li>
@@ -371,10 +371,10 @@ Inicio del Programa -->
 			</div>
 		</div>
 		<div class="row mx-9 my-4" id="30-abril" >
-			<div class="col-2">
-				<img src="" alt="30 Abril">
+			<div class="col-3">
+				<img style="border-radius: 25px;" src="/assets/images/30-abril" alt="30 Abril">
 			</div>
-			<div class="col-10">
+			<div class="col-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
@@ -386,7 +386,7 @@ Inicio del Programa -->
 						<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
 					</li>
 				</ul>
-				<ul class="list-group">
+				<ul id="b4" class="list-group">
 					<li class="list-group-item list-borderless my-2">
 						<h3 style="color: rgb(242 101 251);">BLOQUE 4: UNA HORMONA VITAL </h3>
 					</li>
@@ -454,10 +454,10 @@ Inicio del Programa -->
 			</div>
 		</div>
 		<div class="row mx-9 my-4" id="1-mayo" >
-			<div class="col-2">
-				<img src="" alt="1 Mayo">
+			<div class="col-3">
+				<img style="border-radius: 25px;" src="/assets/images/1-mayo" alt="1 Mayo">
 			</div>
-			<div class="col-10">
+			<div class="col-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">09:00:00 - 19:00:00</h5>
