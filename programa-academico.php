@@ -225,12 +225,12 @@ Category END -->
 Inicio del Programa -->
 
 <section class="" style="background-image: url('/assets/images/musa_fondo.jpeg');">
-	<div class="mx-6">
-		<div class="row mx-9 my-4" id="28-abril" >
-			<div class="col-3">
+	<div class="mx-md-6">
+		<div class="row mx-md-9 my-md-4" id="28-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-3">
 				<img style="border-radius: 25px;" src="/assets/images/28-abril.png" alt="28 Abril">
 			</div>
-			<div class="col-9">
+			<div class="col-12 col-md-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
@@ -243,11 +243,11 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-9 my-4" id="29-abril" >
-			<div class="col-3">
+		<div class="row mx-md-9 my-md-4" id="29-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-3">
 				<img style="border-radius: 25px;" src="/assets/images/29-abril.png" alt="29 Abril">
 			</div>
-			<div class="col-9">
+			<div class="col-12 col-md-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
@@ -370,11 +370,11 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-9 my-4" id="30-abril" >
-			<div class="col-3">
+		<div class="row mx-md-9 my-md-4" id="30-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-3">
 				<img style="border-radius: 25px;" src="/assets/images/30-abril.png" alt="30 Abril">
 			</div>
-			<div class="col-9">
+			<div class="col-12 col-md-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
@@ -453,11 +453,11 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-9 my-4" id="1-mayo" >
-			<div class="col-3">
+		<div class="row mx-md-9 my-md-4" id="1-mayo" >
+			<div class="col-4 m-md-0 m-4 col-md-3">
 				<img style="border-radius: 25px;" src="/assets/images/1-mayo.png" alt="1 Mayo">
 			</div>
-			<div class="col-9">
+			<div class="col-12 col-md-9">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">09:00:00 - 19:00:00</h5>
