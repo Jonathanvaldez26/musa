@@ -226,11 +226,11 @@ Inicio del Programa -->
 
 <section class="" style="background-image: url('/assets/images/musa_fondo.jpeg');">
 	<div class="mx-md-6">
-		<div class="row mx-md-9 my-md-4" id="28-abril" >
-			<div class="col-4 m-md-0 m-4 col-md-3">
-				<img style="border-radius: 25px;" src="/assets/images/28-abril.png" alt="28 Abril">
+		<div class="row mx-md-5 my-md-4" id="28-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<img style="border-radius: 25px;" src="/assets/images/28.png" alt="28 Abril">
 			</div>
-			<div class="col-12 col-md-9">
+			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
@@ -243,36 +243,58 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-md-9 my-md-4" id="29-abril" >
-			<div class="col-4 m-md-0 m-4 col-md-3">
-				<img style="border-radius: 25px;" src="/assets/images/29-abril.png" alt="29 Abril">
+		<div class="row mx-md-5 my-md-4" id="29-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<img style="border-radius: 25px;" src="/assets/images/29.png" alt="29 Abril">
 			</div>
-			<div class="col-12 col-md-9">
+			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Desayuno</h4>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
-						<h4  style="color: rgb(98 56 246);">Bienvenida - Introducción y Objetivos</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+						<div class="row">
+							<div class="col-8">
+								<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
+								<h4  style="color: rgb(98 56 246);">Bienvenida - Introducción y Objetivos</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+							</div>
+							<div class="col-4">
+
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">09:00:00 - 09:10:00</h5>
-						<h4  style="color: rgb(98 56 246);">Un viaje, cuatro generaciones</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">09:00:00 - 09:10:00</h5>
+								<h4  style="color: rgb(98 56 246);">Un viaje, cuatro generaciones</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (3).png" alt="">
+							</div>
+						</div>
 					</li>
 				</ul>
 				<ul id="b1" class="list-group">
 					<li class="list-group-item list-borderless my-2">
+						<hr>	
 						<h3 style="color: rgb(242 101 251);">BLOQUE 1: HORMONAS, SALUD SEXUAL Y EMOTIVA:
 						EL ARTE DE PRESCRIBIR</h3>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">09:40:00 - 10:05:00</h5>
-						<h4  style="color: rgb(98 56 246);">La sexualidad y el uso de anticonceptivos</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">09:40:00 - 10:05:00</h5>
+								<h4  style="color: rgb(98 56 246);">La sexualidad y el uso de anticonceptivos</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (3).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:05:00 - 10:30:00</h5>
@@ -295,6 +317,7 @@ Inicio del Programa -->
 				</ul>
 				<ul id="b2" class="list-group">
 					<li class="list-group-item list-borderless my-2">
+						<hr>
 						<h3 style="color: rgb(242 101 251);">BLOQUE 2: INFECCIONES GENITOURINARIAS </h3>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -328,6 +351,7 @@ Inicio del Programa -->
 				</ul>
 				<ul id="b3" class="list-group">
 					<li class="list-group-item list-borderless my-2">
+						<hr>
 						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -370,11 +394,11 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-md-9 my-md-4" id="30-abril" >
-			<div class="col-4 m-md-0 m-4 col-md-3">
-				<img style="border-radius: 25px;" src="/assets/images/30-abril.png" alt="30 Abril">
+		<div class="row mx-md-5 my-md-4" id="30-abril" >
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<img style="border-radius: 25px;" src="/assets/images/30.png" alt="30 Abril">
 			</div>
-			<div class="col-12 col-md-9">
+			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
@@ -388,6 +412,7 @@ Inicio del Programa -->
 				</ul>
 				<ul id="b4" class="list-group">
 					<li class="list-group-item list-borderless my-2">
+						<hr>
 						<h3 style="color: rgb(242 101 251);">BLOQUE 4: UNA HORMONA VITAL </h3>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -453,11 +478,11 @@ Inicio del Programa -->
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-md-9 my-md-4" id="1-mayo" >
-			<div class="col-4 m-md-0 m-4 col-md-3">
-				<img style="border-radius: 25px;" src="/assets/images/1-mayo.png" alt="1 Mayo">
+		<div class="row mx-md-5 my-md-4" id="1-mayo" >
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<img style="border-radius: 25px;" src="/assets/images/01.png" alt="1 Mayo">
 			</div>
-			<div class="col-12 col-md-9">
+			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">09:00:00 - 19:00:00</h5>
@@ -535,7 +560,7 @@ Footer START -->
 				<a class="me-0" href="home">
 					<img class="light-mode-item" src="assets/images/musa.png" alt="logo" style="max-width: -webkit-fill-available;">
 				</a>
-				<p class="my-3">Eduport education theme, built specifically for the education centers which is dedicated to teaching and involve learners. </p>
+				<p class="my-3"></p>
 				
 			</div>
 			<!-- Widget 1 END -->
@@ -545,15 +570,15 @@ Footer START -->
 				<div class="row g-4">
 									
 					<!-- Link block -->
-					<div class="col-6 col-md-4">
+					<!-- <div class="col-6 col-md-4">
 						<h5 class="mb-2 mb-md-4">Comunidad</h5>
 						<ul class="nav flex-column">
-							<li class="nav-item"><a class="nav-link" href="#">Documentacion</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Documentacion</a></li> -->
 							<!-- <li class="nav-item"><a class="nav-link" href="#">Foro</a></li> -->
 							<!-- <li class="nav-item"><a class="nav-link" href="#">Mapa de sitio</a></li> -->
-							<li class="nav-item"><a class="nav-link" href="#">Faq</a></li>
+							<!-- <li class="nav-item"><a class="nav-link" href="#">Faq</a></li>
 						</ul>
-					</div>
+					</div> -->
 
 					<!-- Link block -->
 					<div class="col-6 col-md-4">
@@ -575,9 +600,9 @@ Footer START -->
 			<!-- Widget 2 END -->
 
 			<!-- Widget 3 START -->
-			<div class="col-lg-3">
+			<!-- <div class="col-lg-3">
 				<h5 class="mb-2 mb-md-4">Contacto</h5>
-				<!-- Time -->
+				Time
 				<p class="mb-2">
 					Toll free:<span class="h6 fw-light ms-2">+1234 568 963</span>
 					<span class="d-block small">(9:AM to 8:PM IST)</span>
@@ -586,7 +611,7 @@ Footer START -->
 				<p class="mb-0">Email:<span class="h6 fw-light ms-2">example@gmail.com</span></p>
 
 				
-			</div> 
+			</div>  -->
 			<!-- Widget 3 END -->
 		</div><!-- Row END -->
 

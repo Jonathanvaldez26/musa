@@ -283,9 +283,8 @@ Footer START -->
 				<!-- logo -->
 				<a class="me-0" href="home">
 					<img class="light-mode-item" src="assets/images/musa.png" alt="logo" style="max-width: -webkit-fill-available;">
-					<!-- <img class="dark-mode-item h-40px" src="assets/images/logo-light.svg" alt="logo"> -->
 				</a>
-				<p class="my-3">Eduport education theme, built specifically for the education centers which is dedicated to teaching and involve learners. </p>
+				<p class="my-3"></p>
 				
 			</div>
 			<!-- Widget 1 END -->
@@ -295,15 +294,15 @@ Footer START -->
 				<div class="row g-4">
 									
 					<!-- Link block -->
-					<div class="col-6 col-md-4">
+					<!-- <div class="col-6 col-md-4">
 						<h5 class="mb-2 mb-md-4">Comunidad</h5>
 						<ul class="nav flex-column">
-							<li class="nav-item"><a class="nav-link" href="#">Documentacion</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Documentacion</a></li> -->
 							<!-- <li class="nav-item"><a class="nav-link" href="#">Foro</a></li> -->
-							<li class="nav-item"><a class="nav-link" href="#">Mapa de sitio</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Faq</a></li>
+							<!-- <li class="nav-item"><a class="nav-link" href="#">Mapa de sitio</a></li> -->
+							<!-- <li class="nav-item"><a class="nav-link" href="#">Faq</a></li>
 						</ul>
-					</div>
+					</div> -->
 
 					<!-- Link block -->
 					<div class="col-6 col-md-4">
@@ -319,16 +318,15 @@ Footer START -->
 							   </ul>
 							</li>
 						</ul>
-						
 					</div>
 				</div>
 			</div>
 			<!-- Widget 2 END -->
 
 			<!-- Widget 3 START -->
-			<div class="col-lg-3">
+			<!-- <div class="col-lg-3">
 				<h5 class="mb-2 mb-md-4">Contacto</h5>
-				<!-- Time -->
+				Time
 				<p class="mb-2">
 					Toll free:<span class="h6 fw-light ms-2">+1234 568 963</span>
 					<span class="d-block small">(9:AM to 8:PM IST)</span>
@@ -336,10 +334,8 @@ Footer START -->
 
 				<p class="mb-0">Email:<span class="h6 fw-light ms-2">example@gmail.com</span></p>
 
-				<div class="row g-2 mt-2">
-					
-				</div> <!-- Row END -->
-			</div> 
+				
+			</div>  -->
 			<!-- Widget 3 END -->
 		</div><!-- Row END -->
 
@@ -372,6 +368,7 @@ Footer START -->
 			</div>
 		</div>
 	</div>
+	
 </footer>
 <!-- =======================
 Footer END -->
