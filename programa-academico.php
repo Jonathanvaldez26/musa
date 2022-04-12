@@ -114,7 +114,7 @@ Main Banner START -->
 				<!-- <h5>MUSA 2022</h5>
 				<p>Mujer Salud 2022 </p> -->
 				<hr style="opacity: .75; color: white;">
-				<img src="/assets/images/musa-01" width="400" alt="MUSA 2022" style="width: 50%;">
+				<img src="/assets/images/musa-01.png" width="400" alt="MUSA 2022" style="width: 50%;">
 			</div>
 		</div>
 		<!-- Title and SVG END -->
@@ -228,7 +228,7 @@ Inicio del Programa -->
 	<div class="mx-6">
 		<div class="row mx-9 my-4" id="28-abril" >
 			<div class="col-3">
-				<img style="border-radius: 25px;" src="/assets/images/28-abril" alt="28 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/28-abril.png" alt="28 Abril">
 			</div>
 			<div class="col-9">
 				<ul class="list-group">
@@ -245,7 +245,7 @@ Inicio del Programa -->
 		</div>
 		<div class="row mx-9 my-4" id="29-abril" >
 			<div class="col-3">
-				<img style="border-radius: 25px;" src="/assets/images/29-abril" alt="29 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/29-abril.png" alt="29 Abril">
 			</div>
 			<div class="col-9">
 				<ul class="list-group">
@@ -372,7 +372,7 @@ Inicio del Programa -->
 		</div>
 		<div class="row mx-9 my-4" id="30-abril" >
 			<div class="col-3">
-				<img style="border-radius: 25px;" src="/assets/images/30-abril" alt="30 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/30-abril.png" alt="30 Abril">
 			</div>
 			<div class="col-9">
 				<ul class="list-group">
@@ -455,7 +455,7 @@ Inicio del Programa -->
 		</div>
 		<div class="row mx-9 my-4" id="1-mayo" >
 			<div class="col-3">
-				<img style="border-radius: 25px;" src="/assets/images/1-mayo" alt="1 Mayo">
+				<img style="border-radius: 25px;" src="/assets/images/1-mayo.png" alt="1 Mayo">
 			</div>
 			<div class="col-9">
 				<ul class="list-group">
