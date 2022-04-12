@@ -297,14 +297,28 @@ Inicio del Programa -->
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">10:05:00 - 10:30:00</h5>
-						<h4  style="color: rgb(98 56 246);">Fertilidad en el siglo XXI</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">10:05:00 - 10:30:00</h5>
+								<h4  style="color: rgb(98 56 246);">Fertilidad en el siglo XXI</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (1).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">10:30:00 - 10:55:00</h5>
-						<h4  style="color: rgb(98 56 246);">Complicaciones en la etapa reproductiva</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">10:30:00 - 10:55:00</h5>
+								<h4  style="color: rgb(98 56 246);">Complicaciones en la etapa reproductiva</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (4).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:55:00 - 11:25:00</h5>
@@ -321,24 +335,59 @@ Inicio del Programa -->
 						<h3 style="color: rgb(242 101 251);">BLOQUE 2: INFECCIONES GENITOURINARIAS </h3>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
-						<h4  style="color: rgb(98 56 246);">Una mirada a la epidemiología de las infecciones genitourinarias en LATAM</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
+								<h4  style="color: rgb(98 56 246);">Una mirada a la epidemiología de las infecciones genitourinarias en LATAM</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (6).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
-						<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antibióticos en las IVU</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
+								<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antibióticos en las IVU</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (2).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">12:35:00 - 13:00:00</h5>
-						<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antimicrobianos en las IV</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">12:35:00 - 13:00:00</h5>
+								<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antimicrobianos en las IV</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (6).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">13:00:00 - 13:25:00</h5>
-						<h4  style="color: rgb(98 56 246);">Definiendo mejores prácticas para el abordaje de las Infecciones Genitourinarias</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo), Dra. Edna Cortés (Urólogo-Ginecólogo) México</i></b>
+						<div class="row">
+							<div class="col-8">
+								<h5 style="color: rgb(0 222 191);">13:00:00 - 13:25:00</h5>
+								<h4  style="color: rgb(98 56 246);">Definiendo mejores prácticas para el abordaje de las Infecciones Genitourinarias</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo), Dra. Edna Cortés (Urólogo-Ginecólogo) México</i></b>
+							</div>
+							<div class="col-4">
+								<div class="row">
+									<div class="col-6">
+										<img src="/assets/images/dr_musa/dr (6).png" alt="">
+									</div>
+									<div class="col-6">
+										<img src="/assets/images/dr_musa/dra (2).png" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">13:25:00 - 13:55:00</h5>
@@ -355,29 +404,64 @@ Inicio del Programa -->
 						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">15:30:00 - 16:00:00</h5>
-						<h4  style="color: rgb(98 56 246);">Estadificando a la mujer en etapa de Climaterio</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">15:30:00 - 16:00:00</h5>
+								<h4  style="color: rgb(98 56 246);">Estadificando a la mujer en etapa de Climaterio</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (8).png" alt="">
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">16:00:00 - 16:25:00</h5>
-						<h4  style="color: rgb(98 56 246);">Salud ginecológica en el Climaterio</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">16:00:00 - 16:25:00</h5>
+								<h4  style="color: rgb(98 56 246);">Salud ginecológica en el Climaterio</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (5).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">16:25:00 - 16:50:00</h5>
-						<h4  style="color: rgb(98 56 246);">Salud Psico-emocional en el Climaterio</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">16:25:00 - 16:50:00</h5>
+								<h4  style="color: rgb(98 56 246);">Salud Psico-emocional en el Climaterio</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (7).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">16:50:00 - 17:15:00</h5>
-						<h4  style="color: rgb(98 56 246);">¿Qué debe conocer el ginecólogo en prevención e imágenes mamarias en Cáncer de mama?</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">16:50:00 - 17:15:00</h5>
+								<h4  style="color: rgb(98 56 246);">¿Qué debe conocer el ginecólogo en prevención e imágenes mamarias en Cáncer de mama?</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr.png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">17:15:00 - 17:40:00</h5>
-						<h4  style="color: rgb(98 56 246);">Salud ósea en el Climaterio</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">17:15:00 - 17:40:00</h5>
+								<h4  style="color: rgb(98 56 246);">Salud ósea en el Climaterio</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">17:40:00 - 18:10:00</h5>
@@ -405,9 +489,16 @@ Inicio del Programa -->
 						<h4  style="color: rgb(98 56 246);">Desayuno </h4>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">09:00:00 - 09:30:00</h5>
-						<h4  style="color: rgb(98 56 246);">“Musas, Arte y Medicina”</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">09:00:00 - 09:30:00</h5>
+								<h4  style="color: rgb(98 56 246);">“Musas, Arte y Medicina”</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (2).png" alt="">
+							</div>
+						</div>	
 					</li>
 				</ul>
 				<ul id="b4" class="list-group">
@@ -416,19 +507,40 @@ Inicio del Programa -->
 						<h3 style="color: rgb(242 101 251);">BLOQUE 4: UNA HORMONA VITAL </h3>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">09:30:00 - 09:55:00</h5>
-						<h4  style="color: rgb(98 56 246);">Principios básicos</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">09:30:00 - 09:55:00</h5>
+								<h4  style="color: rgb(98 56 246);">Principios básicos</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (5).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">09:55:00 - 10:20:00</h5>
-						<h4  style="color: rgb(98 56 246);">Nueva normalidad y nuevos paradigmas</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">09:55:00 - 10:20:00</h5>
+								<h4  style="color: rgb(98 56 246);">Nueva normalidad y nuevos paradigmas</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">10:20:00 - 10:45:00</h5>
-						<h4  style="color: rgb(98 56 246);">Sistema Inmune y vitamina D</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">10:20:00 - 10:45:00</h5>
+								<h4  style="color: rgb(98 56 246);">Sistema Inmune y vitamina D</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr.png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:45:00 - 11:00:00</h5>
@@ -439,37 +551,72 @@ Inicio del Programa -->
 						<h4  style="color: rgb(98 56 246);">Coffee break</h4>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">11:20:00 - 11:45:00</h5>
-						<h4  style="color: rgb(98 56 246);">Salud osteo-muscular y Vitamina D</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">11:20:00 - 11:45:00</h5>
+								<h4  style="color: rgb(98 56 246);">Salud osteo-muscular y Vitamina D</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (4).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
-						<h4  style="color: rgb(98 56 246);">Síndrome Metabólico y Vitamina D</h4>
-						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
+								<h4  style="color: rgb(98 56 246);">Síndrome Metabólico y Vitamina D</h4>
+								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
-						<h4  style="color: rgb(98 56 246);">Salud reproductiva y Vitamina D</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
+								<h4  style="color: rgb(98 56 246);">Salud reproductiva y Vitamina D</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (9).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">12:35:00 - 13:05:00</h5>
 						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">13:05:00 - 13:35:00</h5>
-						<h4  style="color: rgb(98 56 246);">”Aprendizajes de la virtualidad en nuestra práctica médica”</h4>
-						<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">13:05:00 - 13:35:00</h5>
+								<h4  style="color: rgb(98 56 246);">”Aprendizajes de la virtualidad en nuestra práctica médica”</h4>
+								<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
+							</div>
+							<div class="col-3">
+								<img src="/assets/images/dr_musa/dr (10).png" alt="">
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">13:35:00 - 13:50:00</h5>
 						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 style="color: rgb(0 222 191);">13:50:00 - 14:05:00</h5>
-						<h4  style="color: rgb(98 56 246);">Mensaje Final</h4>
-						<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+						<div class="row">
+							<div class="col-9">
+								<h5 style="color: rgb(0 222 191);">13:50:00 - 14:05:00</h5>
+								<h4  style="color: rgb(98 56 246);">Mensaje Final</h4>
+								<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+							</div>
+							<div class="col-3">
+
+							</div>
+						</div>	
 					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">14:05:00 - 15:35:00</h5>
