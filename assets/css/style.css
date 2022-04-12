@@ -21568,7 +21568,9 @@ html[dir=rtl] .choices__input {
   }
 }
 
-
+.list-borderless{
+  border: none!important;
+}
 
 
 /*User CSS*/

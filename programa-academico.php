@@ -77,7 +77,7 @@
 
 <!-- =======================
 Main Banner START -->
-<section class="bg-light">
+<section class="bg-light" style="background-image: url('/assets/images/musa_fondo_0.jpeg');">
 	<div class="container pt-0 mt-0 mt-lg-5">
 
 		<!-- Title and SVG START -->
@@ -85,34 +85,36 @@ Main Banner START -->
 			<div class="col-lg-8 text-center mx-auto position-relative">
 
 				<!-- SVG decoration -->
-				<figure class="position-absolute top-100 start-50 translate-middle mt-4 ms-n9 pe-5 d-none d-lg-block">
+				<!-- <figure class="position-absolute top-100 start-50 translate-middle mt-4 ms-n9 pe-5 d-none d-lg-block">
 					<svg>
 						<path class="fill-success" d="m181.6 6.7c-0.1 0-0.2-0.1-0.3 0-2.5-0.3-4.9-1-7.3-1.4-2.7-0.4-5.5-0.7-8.2-0.8-1.4-0.1-2.8-0.1-4.1-0.1-0.5 0-0.9-0.1-1.4-0.2-0.9-0.3-1.9-0.1-2.8-0.1-5.4 0.2-10.8 0.6-16.1 1.4-2.7 0.3-5.3 0.8-7.9 1.3-0.6 0.1-1.1 0.3-1.8 0.3-0.4 0-0.7-0.1-1.1-0.1-1.5 0-3 0.7-4.3 1.2-3 1-6 2.4-8.8 3.9-2.1 1.1-4 2.4-5.9 3.9-1 0.7-1.8 1.5-2.7 2.2-0.5 0.4-1.1 0.5-1.5 0.9s-0.7 0.8-1.1 1.2c-1 1-1.9 2-2.9 2.9-0.4 0.3-0.8 0.5-1.2 0.5-1.3-0.1-2.7-0.4-3.9-0.6-0.7-0.1-1.2 0-1.8 0-3.1 0-6.4-0.1-9.5 0.4-1.7 0.3-3.4 0.5-5.1 0.7-5.3 0.7-10.7 1.4-15.8 3.1-4.6 1.6-8.9 3.8-13.1 6.3-2.1 1.2-4.2 2.5-6.2 3.9-0.9 0.6-1.7 0.9-2.6 1.2s-1.7 1-2.5 1.6c-1.5 1.1-3 2.1-4.6 3.2-1.2 0.9-2.7 1.7-3.9 2.7-1 0.8-2.2 1.5-3.2 2.2-1.1 0.7-2.2 1.5-3.3 2.3-0.8 0.5-1.7 0.9-2.5 1.5-0.9 0.8-1.9 1.5-2.9 2.2 0.1-0.6 0.3-1.2 0.4-1.9 0.3-1.7 0.2-3.6 0-5.3-0.1-0.9-0.3-1.7-0.8-2.4s-1.5-1.1-2.3-0.8c-0.2 0-0.3 0.1-0.4 0.3s-0.1 0.4-0.1 0.6c0.3 3.6 0.2 7.2-0.7 10.7-0.5 2.2-1.5 4.5-2.7 6.4-0.6 0.9-1.4 1.7-2 2.6s-1.5 1.6-2.3 2.3c-0.2 0.2-0.5 0.4-0.6 0.7s0 0.7 0.1 1.1c0.2 0.8 0.6 1.6 1.3 1.8 0.5 0.1 0.9-0.1 1.3-0.3 0.9-0.4 1.8-0.8 2.7-1.2 0.4-0.2 0.7-0.3 1.1-0.6 1.8-1 3.8-1.7 5.8-2.3 4.3-1.1 9-1.1 13.3 0.1 0.2 0.1 0.4 0.1 0.6 0.1 0.7-0.1 0.9-1 0.6-1.6-0.4-0.6-1-0.9-1.7-1.2-2.5-1.1-4.9-2.1-7.5-2.7-0.6-0.2-1.3-0.3-2-0.4-0.3-0.1-0.5 0-0.8-0.1s-0.9 0-1.1-0.1-0.3 0-0.3-0.2c0-0.4 0.7-0.7 1-0.8 0.5-0.3 1-0.7 1.5-1l5.4-3.6c0.4-0.2 0.6-0.6 1-0.9 1.2-0.9 2.8-1.3 4-2.2 0.4-0.3 0.9-0.6 1.3-0.9l2.7-1.8c1-0.6 2.2-1.2 3.2-1.8 0.9-0.5 1.9-0.8 2.7-1.6 0.9-0.8 2.2-1.4 3.2-2 1.2-0.7 2.3-1.4 3.5-2.1 4.1-2.5 8.2-4.9 12.7-6.6 5.2-1.9 10.6-3.4 16.2-4 5.4-0.6 10.8-0.3 16.2-0.5h0.5c1.4-0.1 2.3-0.1 1.7 1.7-1.4 4.5 1.3 7.5 4.3 10 3.4 2.9 7 5.7 11.3 7.1 4.8 1.6 9.6 3.8 14.9 2.7 3-0.6 6.5-4 6.8-6.4 0.2-1.7 0.1-3.3-0.3-4.9-0.4-1.4-1-3-2.2-3.9-0.9-0.6-1.6-1.6-2.4-2.4-0.9-0.8-1.9-1.7-2.9-2.3-2.1-1.4-4.2-2.6-6.5-3.5-3.2-1.3-6.6-2.2-10-3-0.8-0.2-1.6-0.4-2.5-0.5-0.2 0-1.3-0.1-1.3-0.3-0.1-0.2 0.3-0.4 0.5-0.6 0.9-0.8 1.8-1.5 2.7-2.2 1.9-1.4 3.8-2.8 5.8-3.9 2.1-1.2 4.3-2.3 6.6-3.2 1.2-0.4 2.3-0.8 3.6-1 0.6-0.2 1.2-0.2 1.8-0.4 0.4-0.1 0.7-0.3 1.1-0.5 1.2-0.5 2.7-0.5 3.9-0.8 1.3-0.2 2.7-0.4 4.1-0.7 2.7-0.4 5.5-0.8 8.2-1.1 3.3-0.4 6.7-0.7 10-1 7.7-0.6 15.3-0.3 23 1.3 4.2 0.9 8.3 1.9 12.3 3.6 1.2 0.5 2.3 1.1 3.5 1.5 0.7 0.2 1.3 0.7 1.8 1.1 0.7 0.6 1.5 1.1 2.3 1.7 0.2 0.2 0.6 0.3 0.8 0.2 0.1-0.1 0.1-0.2 0.2-0.4 0.1-0.9-0.2-1.7-0.7-2.4-0.4-0.6-1-1.4-1.6-1.9-0.8-0.7-2-1.1-2.9-1.6-1-0.5-2-0.9-3.1-1.3-2.5-1.1-5.2-2-7.8-2.8-1-0.8-2.4-1.2-3.7-1.4zm-64.4 25.8c4.7 1.3 10.3 3.3 14.6 7.9 0.9 1 2.4 1.8 1.8 3.5-0.6 1.6-2.2 1.5-3.6 1.7-4.9 0.8-9.4-1.2-13.6-2.9-4.5-1.7-8.8-4.3-11.9-8.3-0.5-0.6-1-1.4-1.1-2.2 0-0.3 0-0.6-0.1-0.9s-0.2-0.6 0.1-0.9c0.2-0.2 0.5-0.2 0.8-0.2 2.3-0.1 4.7 0 7.1 0.4 0.9 0.1 1.6 0.6 2.5 0.8 1.1 0.4 2.3 0.8 3.4 1.1z"></path>
 					</svg>
-				</figure>
+				</figure> -->
 				<!-- SVG decoration -->
-				<figure class="position-absolute top-0 start-0 ms-n9">	
+				<!-- <figure class="position-absolute top-0 start-0 ms-n9">	
 					<svg width="22px" height="22px" viewBox="0 0 22 22">
 						<polygon class="fill-orange" points="22,8.3 13.7,8.3 13.7,0 8.3,0 8.3,8.3 0,8.3 0,13.7 8.3,13.7 8.3,22 13.7,22 13.7,13.7 22,13.7 "></polygon>
 					</svg>
-				</figure>
+				</figure> -->
 				<!-- SVG decoration -->
-				<figure class="position-absolute top-100 start-100 translate-middle ms-5 d-none d-lg-block">
+				<!-- <figure class="position-absolute top-100 start-100 translate-middle ms-5 d-none d-lg-block">
 					<svg width="21.5px" height="21.5px" viewBox="0 0 21.5 21.5">
 						<polygon class="fill-danger" points="21.5,14.3 14.4,9.9 18.9,2.8 14.3,0 9.9,7.1 2.8,2.6 0,7.2 7.1,11.6 2.6,18.7 7.2,21.5 11.6,14.4 18.7,18.9 "></polygon>
 					</svg>
-				</figure>
+				</figure> -->
 				<!-- SVG decoration -->
-				<figure class="position-absolute top-0 start-100 translate-middle d-none d-md-block">
+				<!-- <figure class="position-absolute top-0 start-100 translate-middle d-none d-md-block">
 					<svg width="27px" height="27px">
 						<path class="fill-purple" d="M13.122,5.946 L17.679,-0.001 L17.404,7.528 L24.661,5.946 L19.683,11.533 L26.244,15.056 L18.891,16.089 L21.686,23.068 L15.400,19.062 L13.122,26.232 L10.843,19.062 L4.557,23.068 L7.352,16.089 L-0.000,15.056 L6.561,11.533 L1.582,5.946 L8.839,7.528 L8.565,-0.001 L13.122,5.946 Z"></path>
 					</svg>
-				</figure>
+				</figure> -->
 				
 				<!-- Title -->
 				<h1>Programa Académico</h1>
-				<h5>Descripción </h5>
-				<p>Descripción </p>
+				<!-- <h5>MUSA 2022</h5>
+				<p>Mujer Salud 2022 </p> -->
+				<hr style="opacity: .75; color: white;">
+				<img src="/assets/images/musa-01" width="400" alt="MUSA 2022" style="width: 50%;">
 			</div>
 		</div>
 		<!-- Title and SVG END -->
@@ -123,16 +125,16 @@ Main Banner END -->
 
 <!-- =======================
 Video START -->
-<section class="pb-0 py-sm-0 mt-n8">
+<!-- <section class="pb-0 py-sm-0 mt-n8">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 text-center mx-auto">
 				<div class="card card-body shadow p-2">
 					<div class="position-relative">
-            <!-- Image -->
+            Image
 						<img src="assets/images/about/12.jpg" class="card-img rounded-2" alt="...">
 						<div class="card-img-overlay">
-              <!-- Video link -->
+			Video link
 							<div class="position-absolute top-50 start-50 translate-middle">
 								<a href="https://www.youtube.com/watch?v=r-E1xS7J9gs" class="btn btn-lg text-primary-hover btn-round btn-white-shadow mb-0" data-glightbox="" data-gallery="video-tour">
 									<i class="fas fa-play"></i>
@@ -144,7 +146,7 @@ Video START -->
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!-- =======================
 Video END -->
 
@@ -160,27 +162,10 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-purple bg-opacity-10 rounded-circle text-purple">
-							<i class="fas fa-tools"></i>
-						</div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 1</a></h5>
-							<span>Nombre del Ponente</span>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-
-			<!-- Category item -->
-			<div class="col-sm-6 col-lg-4 col-xl-3">
-				<div class="card card-body shadow rounded-3">
-					<div class="d-flex align-items-center">
-						<!-- Icon -->
 						<div class="icon-lg bg-danger bg-opacity-10 rounded-circle text-danger"><i class="fas fa-heartbeat"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 2</a></h5>
-							<span>Nombre del Ponente</span>
+							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 1</a></h5>
+							<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
 						</div>
 					</div>
 				</div>
@@ -193,8 +178,8 @@ Category START -->
 						<!-- Icon -->
 						<div class="icon-lg bg-blue bg-opacity-10 rounded-circle text-blue"><i class="fas fa-photo-video"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 3</a></h5>
-							<span>Nombre del Ponente</span>
+							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 2</a></h5>
+							<span>INFECCIONES GENITOURINARIAS</span>
 						</div>
 					</div>
 				</div>
@@ -207,8 +192,8 @@ Category START -->
 						<!-- Icon -->
 						<div class="icon-lg bg-success bg-opacity-10 rounded-circle text-success"><i class="fas fa-laptop-code"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 4</a></h5>
-							<span>Nombre del Ponente</span>
+							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 3</a></h5>
+							<span>CLIMATERIO</span>
 						</div>
 					</div>
 				</div>
@@ -219,53 +204,14 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-orange bg-opacity-10 rounded-circle text-orange"><i class="fas fa-crop-alt"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 5</a></h5>
-							<span>Nombre del Ponente</span>
+						<div class="icon-lg bg-purple bg-opacity-10 rounded-circle text-purple">
+							<i class="fas fa-tools"></i>
 						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Category item -->
-			<div class="col-sm-6 col-lg-4 col-xl-3">
-				<div class="card card-body shadow rounded-3">
-					<div class="d-flex align-items-center">
-						<!-- Icon -->
-						<div class="icon-lg bg-primary bg-opacity-10 rounded-circle text-primary"><i class="fas fa-business-time"></i></div>
 						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 6</a></h5>
-							<span>Nombre del Ponente</span>
+							<h5 class="mb-0"><a href="#" class="stretched-link">Bloque 4</a></h5>
+							<span>UNA HORMONA VITAL</span>
 						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Category item -->
-			<div class="col-sm-6 col-lg-4 col-xl-3">
-				<div class="card card-body shadow rounded-3">
-					<div class="d-flex align-items-center">
-						<!-- Icon -->
-						<div class="icon-lg bg-info bg-opacity-10 rounded-circle text-info"><i class="fas fa-music"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 7</a></h5>
-							<span>Nombre del Ponente</span>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Category item -->
-			<div class="col-sm-6 col-lg-4 col-xl-3">
-				<div class="card card-body shadow rounded-3">
-					<div class="d-flex align-items-center">
-						<!-- Icon -->
-						<div class="icon-lg bg-warning bg-opacity-15 rounded-circle text-warning"><i class="fas fa-palette"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#" class="stretched-link">Programa 8</a></h5>
-							<span>Nombre del Ponente</span>
-						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -276,18 +222,269 @@ Category START -->
 Category END -->
 
 <!-- =======================
+Inicio del Programa -->
+
+<section class="" style="background-image: url('/assets/images/musa_fondo.jpeg');">
+	<div class="mx-6">
+		<div class="row mx-9 my-4" id="28-abril" >
+			<div class="col-2">
+				<img src="" alt="28 Abril">
+			</div>
+			<div class="col-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Llegadas, check-in</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">19:00:00 - 21:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Coctail de Bienvenida</h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mx-9 my-4" id="29-abril" >
+			<div class="col-2">
+				<img src="" alt="29 Abril">
+			</div>
+			<div class="col-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Desayuno</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Bienvenida - Introducción y Objetivos</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:00:00 - 09:10:00</h5>
+						<h4  style="color: rgb(98 56 246);">Un viaje, cuatro generaciones</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
+					</li>
+				</ul>
+				<ul class="list-group">
+					<li class="list-group-item list-borderless my-2">
+						<h3 style="color: rgb(242 101 251);">BLOQUE 1: HORMONAS, SALUD SEXUAL Y EMOTIVA:
+						EL ARTE DE PRESCRIBIR</h3>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:40:00 - 10:05:00</h5>
+						<h4  style="color: rgb(98 56 246);">La sexualidad y el uso de anticonceptivos</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:05:00 - 10:30:00</h5>
+						<h4  style="color: rgb(98 56 246);">Fertilidad en el siglo XXI</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:30:00 - 10:55:00</h5>
+						<h4  style="color: rgb(98 56 246);">Complicaciones en la etapa reproductiva</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:55:00 - 11:25:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">11:25:00 - 11:45:00</h5>
+						<h4  style="color: rgb(98 56 246);">Coffee break</h4>
+					</li>
+				</ul>
+				<ul class="list-group">
+					<li class="list-group-item list-borderless my-2">
+						<h3 style="color: rgb(242 101 251);">BLOQUE 2: INFECCIONES GENITOURINARIAS </h3>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
+						<h4  style="color: rgb(98 56 246);">Una mirada a la epidemiología de las infecciones genitourinarias en LATAM</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
+						<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antibióticos en las IVU</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">12:35:00 - 13:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antimicrobianos en las IV</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:00:00 - 13:25:00</h5>
+						<h4  style="color: rgb(98 56 246);">Definiendo mejores prácticas para el abordaje de las Infecciones Genitourinarias</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo), Dra. Edna Cortés (Urólogo-Ginecólogo) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:25:00 - 13:55:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:55:00 - 15:30:00</h5>
+						<h4  style="color: rgb(98 56 246);">Comida</h4>
+					</li>
+				</ul>
+				<ul class="list-group">
+					<li class="list-group-item list-borderless my-2">
+						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">15:30:00 - 16:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Estadificando a la mujer en etapa de Climaterio</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">16:00:00 - 16:25:00</h5>
+						<h4  style="color: rgb(98 56 246);">Salud ginecológica en el Climaterio</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">16:25:00 - 16:50:00</h5>
+						<h4  style="color: rgb(98 56 246);">Salud Psico-emocional en el Climaterio</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">16:50:00 - 17:15:00</h5>
+						<h4  style="color: rgb(98 56 246);">¿Qué debe conocer el ginecólogo en prevención e imágenes mamarias en Cáncer de mama?</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">17:15:00 - 17:40:00</h5>
+						<h4  style="color: rgb(98 56 246);">Salud ósea en el Climaterio</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">17:40:00 - 18:10:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">18:10:00 - 20:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Tiempo Libre</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">20:00:00 - 21:30:00</h5>
+						<h4  style="color: rgb(98 56 246);">Cena</h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mx-9 my-4" id="30-abril" >
+			<div class="col-2">
+				<img src="" alt="30 Abril">
+			</div>
+			<div class="col-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Desayuno </h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:00:00 - 09:30:00</h5>
+						<h4  style="color: rgb(98 56 246);">“Musas, Arte y Medicina”</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
+					</li>
+				</ul>
+				<ul class="list-group">
+					<li class="list-group-item list-borderless my-2">
+						<h3 style="color: rgb(242 101 251);">BLOQUE 4: UNA HORMONA VITAL </h3>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:30:00 - 09:55:00</h5>
+						<h4  style="color: rgb(98 56 246);">Principios básicos</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:55:00 - 10:20:00</h5>
+						<h4  style="color: rgb(98 56 246);">Nueva normalidad y nuevos paradigmas</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:20:00 - 10:45:00</h5>
+						<h4  style="color: rgb(98 56 246);">Sistema Inmune y vitamina D</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">10:45:00 - 11:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">11:00:00 - 11:20:00</h5>
+						<h4  style="color: rgb(98 56 246);">Coffee break</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">11:20:00 - 11:45:00</h5>
+						<h4  style="color: rgb(98 56 246);">Salud osteo-muscular y Vitamina D</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
+						<h4  style="color: rgb(98 56 246);">Síndrome Metabólico y Vitamina D</h4>
+						<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">12:10:00 - 12:35:00</h5>
+						<h4  style="color: rgb(98 56 246);">Salud reproductiva y Vitamina D</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">12:35:00 - 13:05:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:05:00 - 13:35:00</h5>
+						<h4  style="color: rgb(98 56 246);">”Aprendizajes de la virtualidad en nuestra práctica médica”</h4>
+						<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:35:00 - 13:50:00</h5>
+						<h4  style="color: rgb(98 56 246);">Preguntas y Respuestas</h4>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">13:50:00 - 14:05:00</h5>
+						<h4  style="color: rgb(98 56 246);">Mensaje Final</h4>
+						<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
+					</li>
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">14:05:00 - 15:35:00</h5>
+						<h4  style="color: rgb(98 56 246);">Comida</h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mx-9 my-4" id="1-mayo" >
+			<div class="col-2">
+				<img src="" alt="1 Mayo">
+			</div>
+			<div class="col-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<h5 style="color: rgb(0 222 191);">09:00:00 - 19:00:00</h5>
+						<h4  style="color: rgb(98 56 246);">Regreso a residencias</h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- =======================
+Fin del Programa -->
+
+<!-- =======================
 Action box START -->
-<section class="py-0">
+<!-- <section class="py-0">
 	<div class="container">
 		<div class="row g-4">
-      <!-- Action box item -->
+      Action box item
 			<div class="col-lg-6 position-relative overflow-hidden">
 				<div class="bg-primary bg-opacity-10 rounded-3 p-5 h-100">
-					<!-- Image -->
+					Image
 					<div class="position-absolute bottom-0 end-0 me-3">
 						<img src="assets/images/element/musa1-pa.png" class="h-100px h-sm-200px" alt="">
 					</div>	
-					<!-- Content -->
+					Content
 					<div class="row">
 						<div class="col-sm-8 position-relative">
 							<h3 class="mb-1">Earn a Certificate</h3>
@@ -298,14 +495,14 @@ Action box START -->
 				</div>
 			</div>
 
-      <!-- Action box item -->
+      Action box item
 			<div class="col-lg-6 position-relative overflow-hidden">
 				<div class="bg-secondary rounded-3 bg-opacity-10 p-5 h-100">
-					<!-- Image -->
+					Image
 					<div class="position-absolute bottom-0 end-0 me-3">
 						<img src="assets/images/element/musa2-pa.png" class="h-100px h-sm-200px" alt="">
 					</div>	
-					<!-- Content -->
+					Content
 					<div class="row">
 						<div class="col-sm-8 position-relative">
 							<h3 class="mb-1">Best Rated Courses</h3>
@@ -318,7 +515,7 @@ Action box START -->
 		</div>
 	</div>
 
-</section>
+</section> -->
 <!-- =======================
 Action box END -->
 
@@ -353,7 +550,7 @@ Footer START -->
 						<ul class="nav flex-column">
 							<li class="nav-item"><a class="nav-link" href="#">Documentacion</a></li>
 							<!-- <li class="nav-item"><a class="nav-link" href="#">Foro</a></li> -->
-							<li class="nav-item"><a class="nav-link" href="#">Mapa de sitio</a></li>
+							<!-- <li class="nav-item"><a class="nav-link" href="#">Mapa de sitio</a></li> -->
 							<li class="nav-item"><a class="nav-link" href="#">Faq</a></li>
 						</ul>
 					</div>
