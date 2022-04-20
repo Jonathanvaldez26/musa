@@ -27,6 +27,8 @@
 	<!-- Theme CSS -->
 	<link id="style-switch" rel="stylesheet" type="text/css" href="assets/css/style.css">
 
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 </head>
 
 <body>
@@ -272,11 +274,12 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Un viaje, cuatro generaciones</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_elsa_dia">
 								<img src="/assets/images/dr_musa/dra (3).png" alt="">
 							</div>
 						</div>
 					</li>
+					
 				</ul>
 				<ul id="b1" class="list-group">
 					<li class="list-group-item list-borderless my-2">
@@ -291,7 +294,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">La sexualidad y el uso de anticonceptivos</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio">
 								<img src="/assets/images/dr_musa/dr (3).png" alt="">
 							</div>
 						</div>
@@ -303,7 +306,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Fertilidad en el siglo XXI</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_alejandro_villalobos"> 
 								<img src="/assets/images/dr_musa/dr (1).png" alt="">
 							</div>
 						</div>
@@ -315,7 +318,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Complicaciones en la etapa reproductiva</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_gabriel_gall">
 								<img src="/assets/images/dr_musa/dr (4).png" alt="">
 							</div>
 						</div>
@@ -336,12 +339,12 @@ Inicio del Programa -->
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
+							<div class="col-9" >
 								<h5 style="color: rgb(0 222 191);">11:45:00 - 12:10:00</h5>
 								<h4  style="color: rgb(98 56 246);">Una mirada a la epidemiología de las infecciones genitourinarias en LATAM</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
 								<img src="/assets/images/dr_musa/dr (6).png" alt="">
 							</div>
 						</div>
@@ -353,7 +356,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antibióticos en las IVU</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_edna_cortes">
 								<img src="/assets/images/dr_musa/dra (2).png" alt="">
 							</div>
 						</div>
@@ -365,7 +368,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Lecciones Aprendidas del Uso indiscriminado de Antimicrobianos en las IV</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
 								<img src="/assets/images/dr_musa/dr (6).png" alt="">
 							</div>
 						</div>
@@ -379,10 +382,10 @@ Inicio del Programa -->
 							</div>
 							<div class="col-4">
 								<div class="row">
-									<div class="col-6">
+									<div class="col-6" data-toggle="modal" data-target="#doc_jose_tiran">
 										<img src="/assets/images/dr_musa/dr (6).png" alt="">
 									</div>
-									<div class="col-6">
+									<div class="col-6" data-toggle="modal" data-target="#doc_edna_cortes">
 										<img src="/assets/images/dr_musa/dra (2).png" alt="">
 									</div>
 								</div>
@@ -410,7 +413,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Estadificando a la mujer en etapa de Climaterio</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_manuel_mirasso">
 								<img src="/assets/images/dr_musa/dr (8).png" alt="">
 							</div>
 						</div>
@@ -422,7 +425,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Salud ginecológica en el Climaterio</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_jose_luis">
 								<img src="/assets/images/dr_musa/dr (5).png" alt="">
 							</div>
 						</div>	
@@ -434,7 +437,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Salud Psico-emocional en el Climaterio</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_juan_vele">
 								<img src="/assets/images/dr_musa/dr (7).png" alt="">
 							</div>
 						</div>	
@@ -446,7 +449,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">¿Qué debe conocer el ginecólogo en prevención e imágenes mamarias en Cáncer de mama?</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
 								<img src="/assets/images/dr_musa/dr.png" alt="">
 							</div>
 						</div>	
@@ -458,7 +461,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Salud ósea en el Climaterio</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
 								<img src="/assets/images/dr_musa/dra (1).png" alt="">
 							</div>
 						</div>	
@@ -495,7 +498,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">“Musas, Arte y Medicina”</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_cesar_velasco">
 								<img src="/assets/images/dr_musa/dr (2).png" alt="">
 							</div>
 						</div>	
@@ -513,7 +516,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Principios básicos</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3"  data-toggle="modal" data-target="#doc_jose_luis">
 								<img src="/assets/images/dr_musa/dr (5).png" alt="">
 							</div>
 						</div>	
@@ -525,7 +528,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Nueva normalidad y nuevos paradigmas</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
 								<img src="/assets/images/dr_musa/dra (1).png" alt="">
 							</div>
 						</div>	
@@ -537,7 +540,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Sistema Inmune y vitamina D</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
 								<img src="/assets/images/dr_musa/dr.png" alt="">
 							</div>
 						</div>	
@@ -557,7 +560,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Salud osteo-muscular y Vitamina D</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_margarita_duarte">
 								<img src="/assets/images/dr_musa/dra (4).png" alt="">
 							</div>
 						</div>	
@@ -569,7 +572,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Síndrome Metabólico y Vitamina D</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
 								<img src="/assets/images/dr_musa/dra (1).png" alt="">
 							</div>
 						</div>	
@@ -581,7 +584,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Salud reproductiva y Vitamina D</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercad">
 								<img src="/assets/images/dr_musa/dr (9).png" alt="">
 							</div>
 						</div>	
@@ -597,7 +600,7 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">”Aprendizajes de la virtualidad en nuestra práctica médica”</h4>
 								<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
 							</div>
-							<div class="col-3">
+							<div class="col-3" data-toggle="modal" data-target="#doc_mario_enrique">
 								<img src="/assets/images/dr_musa/dr (10).png" alt="">
 							</div>
 						</div>	
@@ -728,7 +731,7 @@ Footer START -->
 					</div> -->
 
 					<!-- Link block -->
-					<div class="col-6 col-md-4">
+					<!-- <div class="col-6 col-md-4">
 						<h5 class="mb-2 mb-md-4">Profesores</h5>
 						<ul class="nav flex-column" id="menu">
 							<li class="nav-item">
@@ -741,7 +744,7 @@ Footer START -->
 							   </ul>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<!-- Widget 2 END -->
@@ -838,6 +841,365 @@ Footer END -->
 
 <!-- Template Functions -->
 <script src="assets/js/functions.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_david_barrios" tabindex="-1" role="dialog" aria-labelledby="doc_david_barriosTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_david_barriosTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_david_barrios" tabindex="-1" role="dialog" aria-labelledby="doc_david_barriosTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_david_barriosTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_alejandro_villalobos" tabindex="-1" role="dialog" aria-labelledby="doc_alejandro_villalobosTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_alejandro_villalobosTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. ALEJANDRO VILLALOBOS CASTRO – COSTA RICA</h3>
+		<p>Especialista en Ginecología y Obstetricia y especialista en Perinatología de la Universidad de Costa Rica. Sub Especialista en Medicina Reproductiva Humana. Facultad de Medicina de Valencia España, e Instituto Valenciano de Infertilidad.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_gabriel_gallo" tabindex="-1" role="dialog" aria-labelledby="doc_gabriel_galloTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_gabriel_galloTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. ALEJANDRO VILLALOBOS CASTRO – COSTA RICA</h3>
+		<p>Especialista en Ginecología y Obstetricia y especialista en Perinatología de la Universidad de Costa Rica. Sub Especialista en Medicina Reproductiva Humana. Facultad de Medicina de Valencia España, e Instituto Valenciano de Infertilidad.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_jose_tiran" tabindex="-1" role="dialog" aria-labelledby="doc_jose_tiranTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_jose_tiranTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. TIRÁN SAUDECO, JOSÉ - MÉXICO</h3>
+		<p>Especialista en Ginecología y Obstetricia egresado del Instituto Tecnológico y de Estudios Superiores de Monterrey. Atiende a sus pacientes en el Hospital San José de la ciudad de Monterrey.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_edna_cortes" tabindex="-1" role="dialog" aria-labelledby="doc_edna_cortesTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_edna_cortesTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DRA. CORTÉS, EDNA – MÉXICO</h3>
+		<p>Especialista en Ginecología y Obstetricia, especialista en tratamientos como: Urología Ginecológica, Incontinencia, Prolapso Genital, Problemas de Piso Pélvico, entre otros.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_manuel_mirassou" tabindex="-1" role="dialog" aria-labelledby="doc_manuel_mirassouTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_manuel_mirassouTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_jose_luis" tabindex="-1" role="dialog" aria-labelledby="doc_jose_luisTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_jose_luisTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. NEYRO, JOSÉ LUIS - ESPAÑA</h3>
+		<p>Médico Especialista en Obstetricia y Ginecología y Profesor de Post-Grado (Máster y Doctorado), en diferentes universidades nacionales e internacionales. Especialista en Climaterio y Menopausia.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_juan_velez" tabindex="-1" role="dialog" aria-labelledby="doc_juan_velezTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_juan_velezTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3></h3>
+		<p></p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="doc_carlos_rencoret" tabindex="-1" role="dialog" aria-labelledby="doc_carlos_rencoretTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_carlos_rencoretTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. RENCORET, CARLOS – CHILE</h3>
+		<p>Médico cirujano de la Universidad de Chile. Especialista en Ginecología y Obstetricia Facultad de Medicina de la Universidad de Chile. Especialista en Oncología Mamaria Unidad Patología Mamaria Hospital San Borja Arriarán.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_maria_belen" tabindex="-1" role="dialog" aria-labelledby="doc_maria_belenTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_maria_belenTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DRA. ZANCHETTA, MARÍA BELÉN - ARGENTINA</h3>
+		<p>Especialista en Endocrinología de la Universidad de Buenos Aires. Magíster en Osteología y Metabolismo Mineral. Directora médica y académica de IDIM y de la cátedra de post grado en Osteología y Metabolismo de la Universidad del Salvador.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_cesar_velasco" tabindex="-1" role="dialog" aria-labelledby="doc_cesar_velascoTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_cesar_velascoTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DR. TELLEZ VELASCO, CÉSAR - MÉXICO</h3>
+		<p>Médico, psiquiatra y terapeuta sexual y de pareja, con más de 25 años de experiencia en la atención de individuos y parejas. Ha sido profesor universitario en México y España, conferencista e investigador.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_margarita_duarte" tabindex="-1" role="dialog" aria-labelledby="doc_margarita_duarteTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_margarita_duarteTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>DRA. DUARTE, MARGARITA - PARAGUAY</h3>
+		<p>Doctora en Medicina y Cirugía, especialista en Medicina Interna de la Facultad de Ciencias Médicas de la Universidad Nacional de Asunción y Especialista en Reumatología – Goethe Universitat de Frankfurt am Main, Alemania.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_victor_mercado" tabindex="-1" role="dialog" aria-labelledby="doc_victor_mercadoTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_victor_mercadoTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3></h3>
+		<p></p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="doc_mario_enrique" tabindex="-1" role="dialog" aria-labelledby="doc_mario_enriqueTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="doc_mario_enriqueTitle">Biografía</h5>
+        <button type="button" class="btn bg-gradient-danger" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+      </div>
+      <div class="modal-body">
+	  <h3>LIC. ENRIQUE CULEBRO KARAM - MÉXICO</h3>
+		<p>Licenciado en Mercadotecnia y Maestro en Tecnologías de la información por el Tecnológico de Monterrey, desde el 2001 es fundador y Director General en Central Media, conocida por ser una de las primeras agencias digitales en México.</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+		
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
 </html>

@@ -333,7 +333,7 @@ Footer START -->
 					</div> -->
 
 					<!-- Link block -->
-					<div class="col-6 col-md-4">
+					<!-- <div class="col-6 col-md-4">
 						<h5 class="mb-2 mb-md-4">Profesores</h5>
 						<ul class="nav flex-column" id="menu">
 							<li class="nav-item">
@@ -346,7 +346,7 @@ Footer START -->
 							   </ul>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<!-- Widget 2 END -->
