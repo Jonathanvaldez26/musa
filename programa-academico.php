@@ -79,7 +79,7 @@
 
 <!-- =======================
 Main Banner START -->
-<section class="bg-light" style="background-image: url('/assets/images/musa_fondo_0.jpeg');">
+<section class="bg-light" style="background-image: url('/assets/images/musa_fondo_0.jpeg'); background-size: cover;">
 	<div class="container pt-0 mt-0 mt-lg-5">
 
 		<!-- Title and SVG START -->
@@ -164,10 +164,12 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-danger bg-opacity-10 rounded-circle text-danger"><i class="fas fa-heartbeat"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#b1" class="stretched-link">Bloque 1</a></h5>
-							<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
+						<div class="row m-1">
+							<div class="icon-lg bg-danger bg-opacity-10 rounded-circle text-danger col-12 col-md-3"><i class="fas fa-heartbeat"></i></div>
+							<div class="col-12 col-md-9">
+								<h5 class="mb-0"><a href="#b1" class="stretched-link ">Bloque 1</a></h5>
+								<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -178,10 +180,12 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-blue bg-opacity-10 rounded-circle text-blue"><i class="fas fa-photo-video"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
-							<span>INFECCIONES GENITOURINARIAS</span>
+						<div class="row m-1">
+							<div class="icon-lg bg-blue bg-opacity-10 rounded-circle text-blue col-12 col-md-3"><i class="fas fa-photo-video"></i></div>
+							<div class="col-12 col-md-9">
+								<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
+								<span>INFECCIONES GENITOURINARIAS</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -192,10 +196,12 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-success bg-opacity-10 rounded-circle text-success"><i class="fas fa-laptop-code"></i></div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
-							<span>CLIMATERIO</span>
+						<div class="row m-1">
+							<div class="icon-lg bg-success bg-opacity-10 rounded-circle text-success col-md-3"><i class="fas fa-laptop-code"></i></div>
+							<div class="col-md-9">
+								<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
+								<span>CLIMATERIO</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -206,14 +212,15 @@ Category START -->
 				<div class="card card-body shadow rounded-3">
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
-						<div class="icon-lg bg-purple bg-opacity-10 rounded-circle text-purple">
-							<i class="fas fa-tools"></i>
+						<div class="row m-1">
+							<div class="icon-lg bg-purple bg-opacity-10 rounded-circle text-purple col-md-3">
+								<i class="fas fa-tools"></i>
+							</div>
+							<div class="col-md-9">
+								<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
+								<span>UNA HORMONA VITAL</span>
+							</div>
 						</div>
-						<div class="ms-3">
-							<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
-							<span>UNA HORMONA VITAL</span>
-						</div>
-						
 					</div>
 				</div>
 			</div>
@@ -226,7 +233,7 @@ Category END -->
 <!-- =======================
 Inicio del Programa -->
 
-<section class="" style="background-image: url('/assets/images/musa_fondo.jpeg');">
+<section class="" style="background-image: url('/assets/images/musa_fondo.jpeg'); ">
 	<div class="mx-md-6">
 		<div class="row mx-md-5 my-md-4" id="28-abril" >
 			<div class="col-4 m-md-0 m-4 col-md-2">
