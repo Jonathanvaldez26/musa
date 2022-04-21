@@ -136,11 +136,11 @@ Inner part START -->
 								<p class="text-truncate-1 mb-3">Pruebe nuestra variedad de Entradas.</p>
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul style="color: black; font-size: small;">
-										<li class="li-numb">
+										<!-- <li class="li-numb">
 											<p>
 												Tartar de Salmón, aguacate y piña rostizada 
 											</p>
-										</li>
+										</li> -->
 										<li class="li-numb">
 											<p>
 												Tostada de marlin, alíoli de chipotle y microgreens.
@@ -152,11 +152,11 @@ Inner part START -->
 						</div>
 						<div id="card-desk" class="justify-content-sm-between align-items-center">
 							<ul style="color: black;">
-								<li class="li-numb">
+								<!-- <li class="li-numb">
 									<p>
 									Tartar de Salmón, aguacate y piña rostizada 
 									</p>
-								</li>
+								</li> -->
 								<li class="li-numb">
 									<p>
 									Tostada de marlin, alíoli de chipotle y microgreens.
@@ -199,11 +199,11 @@ Inner part START -->
 												Salmón con mantequilla de cilantro y verduras rostizadas.
 											</p>
 										</li>
-										<li class="li-numb">
+										<!-- <li class="li-numb">
 											<p>
 												Confit de pato en mole afrutado.
 											</p>
-										</li>
+										</li> -->
 									</ul>
 								</div>
 							</div>
@@ -215,11 +215,11 @@ Inner part START -->
 										Salmón con mantequilla de cilantro y verduras rostizadas.
 									</p>
 								</li>
-								<li class="li-numb">
+								<!-- <li class="li-numb">
 									<p>
 										Confit de pato en mole afrutado.
 									</p>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
@@ -260,11 +260,11 @@ Inner part START -->
 												Profiteroles.
 											</p>
 										</li>
-										<li class="li-numb">
+										<!-- <li class="li-numb">
 											<p>
 												Las tres texturas de chocolate.
 											</p>
-										</li>
+										</li> -->
 									</ul>
 								</div>
 							</div>
@@ -278,11 +278,11 @@ Inner part START -->
 									Profiteroles.
 								</p>
 							</li>
-							<li class="li-numb">
+							<!-- <li class="li-numb">
 								<p>
 									Las tres texturas de chocolate.
 								</p>
-							</li>
+							</li> -->
 						</ul>
 					</div>
 				</div>
