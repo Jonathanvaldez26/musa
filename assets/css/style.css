@@ -21572,6 +21572,23 @@ html[dir=rtl] .choices__input {
   border: none!important;
 }
 
+@media (max-width: 576px) {
+    .img-evento{
+      box-shadow: 0px 0px 20px 5px cornflowerblue;
+      border-radius: 5%;
+      max-width: 30rem;
+      width: inherit;
+    }
+}
+
+@media (min-width: 577px) {
+  .img-evento{
+    box-shadow: 0px 0px 20px 5px cornflowerblue;
+    border-radius: 5%;
+    max-width: 30rem;
+    /* width: inherit; */
+  }
+}
 
 /*User CSS*/
 /*# sourceMappingURL=style.css.map */

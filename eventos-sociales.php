@@ -159,9 +159,9 @@ Page Banner START -->
 			<div class="col-md-6 text-center">
 				<!-- Image -->
 				<img 
-					style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 5%; background: lightcoral;" 
+					style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 5%; max-width: 30rem; background: lightcoral;" 
 					src="assets/images/coctel_bienvenida.png" 
-					class="h-300px h-xl-400px" 
+					class="h-300px h-xl-400px img-eventos" 
 					alt="">
 			</div>
 		</div>
@@ -244,9 +244,9 @@ Page Banner START -->
 			<div id="derecha" class="col-md-6" style="text-align: center;">
 				<!-- Image -->
 				<img 
-					style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%;" 
+					style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%; max-width: 30rem;" 
 					src="assets/images/cena_clausura.png" 
-					class="h-300px h-xl-400px" 
+					class="h-300px h-xl-400px img-evento" 
 					alt="">
 			</div>
 			
