@@ -117,9 +117,9 @@ Inner part START -->
 				<div class="card b-shadow-lila card-size-movil p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-4 text-center">
+						<!-- <div class="col-md-4 text-center">
 							<img src="assets/images/menu/tarta-salmon.jpg" class="b-shadow-2 rounded-3" alt="..." >
-						</div>
+						</div> -->
 
 						<!-- Card body -->
 						<div class="col-md-8 col-12">
@@ -143,7 +143,7 @@ Inner part START -->
 										</li> -->
 										<li class="li-numb">
 											<p>
-												Tostada de marlin, alíoli de chipotle y microgreens.
+												Tartar de salmón, aguacate y piña rostizada.
 											</p>
 										</li>
 									</ul>
@@ -175,9 +175,9 @@ Inner part START -->
 				<div class="card  b-shadow-rosa card-size-movil p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-4 text-center">
+						<!-- <div class="col-md-4 text-center">
 							<img src="assets/images/menu/salmon-0.jpg" class="b-shadow-2 rounded-3" alt="..." style="max-width: -webkit-fill-available;">
-						</div>
+						</div> -->
 
 						<!-- Card body -->
 						<div class="col-md-8 col-12">
@@ -233,9 +233,9 @@ Inner part START -->
 				<div class="card  b-shadow-azul card-size-movil p-2">
 					<div class="row g-0">
 						<!-- Image -->
-						<div class="col-md-4 text-center">
+						<!-- <div class="col-md-4 text-center">
 							<img src="assets/images/menu/profiteroles.jpg" class="b-shadow-2 rounded-3" alt="..." style="max-width: -webkit-fill-available;">
-						</div>
+						</div> -->
 
 						<!-- Card body -->
 						<div class="col-md-8 col-12">

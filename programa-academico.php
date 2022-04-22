@@ -265,7 +265,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<div class="row">
 							<div class="col-8">
-								<h5 style="color: rgb(0 222 191);">07:30:00 - 09:00:00</h5>
+								<h5 style="color: rgb(0 222 191);">09:00:00 - 09:10:00</h5>
 								<h4  style="color: rgb(98 56 246);">Bienvenida - Introducción y Objetivos</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
 							</div>
@@ -277,7 +277,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<div class="row">
 							<div class="col-9">
-								<h5 style="color: rgb(0 222 191);">09:00:00 - 09:10:00</h5>
+								<h5 style="color: rgb(0 222 191);">09:10:00 - 09:40:00</h5>
 								<h4  style="color: rgb(98 56 246);">Un viaje, cuatro generaciones</h4>
 								<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
 							</div>
@@ -562,14 +562,24 @@ Inicio del Programa -->
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
+							<div class="col-8">
 								<h5 style="color: rgb(0 222 191);">11:20:00 - 11:45:00</h5>
 								<h4  style="color: rgb(98 56 246);">Salud osteo-muscular y Vitamina D</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay</i></b>
+								<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay, Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_margarita_duarte">
-								<img src="/assets/images/dr_musa/dra (4).png" alt="">
+
+							<div class="col-4">
+								<div class="row">
+									<div class="col-6" data-toggle="modal" data-target="#doc_margarita_duarte">
+										<img src="/assets/images/dr_musa/dra (4).png" alt="">
+									</div>
+									<div class="col-6" data-toggle="modal" data-target="#doc_juan_vele">
+										<img src="/assets/images/dr_musa/dr (7).png" alt="">
+									</div>
+								</div>
 							</div>
+
+							
 						</div>	
 					</li>
 					<li class="list-group-item list-borderless">

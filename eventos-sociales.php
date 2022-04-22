@@ -160,7 +160,7 @@ Page Banner START -->
 				<!-- Image -->
 				<img 
 					style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 5%; background: lightcoral;" 
-					src="assets/images/evento-2.jpeg" 
+					src="assets/images/coctel_bienvenida.png" 
 					class="h-300px h-xl-400px" 
 					alt="">
 			</div>
@@ -245,7 +245,7 @@ Page Banner START -->
 				<!-- Image -->
 				<img 
 					style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%;" 
-					src="assets/images/evento-1.jpeg" 
+					src="assets/images/cena_clausura.png" 
 					class="h-300px h-xl-400px" 
 					alt="">
 			</div>
