@@ -131,7 +131,7 @@ Main Banner START -->
 						<!-- Card item END -->
 
 						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/evento-social.png); background-position: center; background-size: cover;">
+						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/restaurante.png); background-position: center; background-size: cover;">
 							<!-- Background dark overlay -->
 							<div class="bg-overlay bg-dark opacity-6"></div>
 							<!-- Card image overlay -->
