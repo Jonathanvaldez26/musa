@@ -129,8 +129,8 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entradas <p></p> </a></h5>
-										<!-- <p class="small mb-2 mb-sm-0">Plato fuertes y entrada para todos</p> -->
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada <p></p> </a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
@@ -187,8 +187,8 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Platos Fuertes</a></h5>
-										<!-- <p class="small mb-2 mb-sm-0">Plato fuertes y entradas para todos</p> -->
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Plato Fuerte</a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
@@ -317,7 +317,7 @@ Inner part START -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
 										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada <p></p> </a></h5>
-										<!-- <p class="small mb-2 mb-sm-0">Plato fuertes y entrada para todos</p> -->
+										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entrada para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
@@ -374,8 +374,8 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Plato Fuertes</a></h5>
-										<!-- <p class="small mb-2 mb-sm-0">Plato fuertes y entradas para todos</p> -->
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Plato Fuerte</a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>

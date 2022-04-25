@@ -116,7 +116,7 @@ Main Banner START -->
 				<!-- <h5>MUSA 2022</h5>
 				<p>Mujer Salud 2022 </p> -->
 				<hr style="opacity: .75; color: white;">
-				<img src="/assets/images/musa-01.png" width="400" alt="MUSA 2022" style="width: 50%;">
+				<img src="/assets/images/musa-01.png" width="400" alt="MUSA 2022" style="width: 50%;"class="photo">
 			</div>
 		</div>
 		<!-- Title and SVG END -->
@@ -283,7 +283,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_elsa_dia">
-								<img src="/assets/images/dr_musa/dra (3).png" alt="">
+								<img src="/assets/images/dr_musa/dra (3).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -303,7 +303,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio">
-								<img src="/assets/images/dr_musa/dr (3).png" alt="">
+								<img src="/assets/images/dr_musa/dr (3).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -315,20 +315,29 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_alejandro_villalobos"> 
-								<img src="/assets/images/dr_musa/dr (1).png" alt="">
+								<img src="/assets/images/dr_musa/dr (1).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
+							<div class="col-8">
 								<h5 style="color: rgb(0 222 191);">10:30:00 - 10:55:00</h5>
 								<h4  style="color: rgb(98 56 246);">Complicaciones en la etapa reproductiva</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_gabriel_gall">
-								<img src="/assets/images/dr_musa/dr (4).png" alt="">
+
+							<div class="col-4">
+								<div class="row">
+									<div class="col-6" data-toggle="modal" data-target="#doc_gabriel_gall">
+										<img src="/assets/images/dr_musa/dr (4).png" alt="" class="photo">
+									</div>
+									<div class="col-6" data-toggle="modal" data-target="#doc_juan_vele">
+										<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
+									</div>
+								</div>
 							</div>
+
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -353,7 +362,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
-								<img src="/assets/images/dr_musa/dr (6).png" alt="">
+								<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -365,7 +374,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_edna_cortes">
-								<img src="/assets/images/dr_musa/dra (2).png" alt="">
+								<img src="/assets/images/dr_musa/dra (2).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -377,7 +386,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
-								<img src="/assets/images/dr_musa/dr (6).png" alt="">
+								<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -391,10 +400,10 @@ Inicio del Programa -->
 							<div class="col-4">
 								<div class="row">
 									<div class="col-6" data-toggle="modal" data-target="#doc_jose_tiran">
-										<img src="/assets/images/dr_musa/dr (6).png" alt="">
+										<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
 									</div>
 									<div class="col-6" data-toggle="modal" data-target="#doc_edna_cortes">
-										<img src="/assets/images/dr_musa/dra (2).png" alt="">
+										<img src="/assets/images/dr_musa/dra (2).png" alt="" class="photo">
 									</div>
 								</div>
 							</div>
@@ -422,7 +431,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_manuel_mirasso">
-								<img src="/assets/images/dr_musa/dr (8).png" alt="">
+								<img src="/assets/images/dr_musa/dr (8).png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -434,7 +443,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_jose_luis">
-								<img src="/assets/images/dr_musa/dr (5).png" alt="">
+								<img src="/assets/images/dr_musa/dr (5).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -446,7 +455,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_juan_vele">
-								<img src="/assets/images/dr_musa/dr (7).png" alt="">
+								<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -458,7 +467,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
-								<img src="/assets/images/dr_musa/dr.png" alt="">
+								<img src="/assets/images/dr_musa/dr.png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -470,7 +479,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -507,7 +516,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_cesar_velasco">
-								<img src="/assets/images/dr_musa/dr (2).png" alt="">
+								<img src="/assets/images/dr_musa/dr (2).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -524,8 +533,8 @@ Inicio del Programa -->
 								<h4  style="color: rgb(98 56 246);">Principios básicos</h4>
 								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
 							</div>
-							<div class="col-3"  data-toggle="modal" data-target="#doc_jose_luis">
-								<img src="/assets/images/dr_musa/dr (5).png" alt="">
+							<div class="col-3"   data-toggle="modal" data-target="#doc_jose_luis">
+								<img src="/assets/images/dr_musa/dr (5).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -537,7 +546,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -549,7 +558,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
-								<img src="/assets/images/dr_musa/dr.png" alt="">
+								<img src="/assets/images/dr_musa/dr.png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -572,10 +581,10 @@ Inicio del Programa -->
 							<div class="col-4">
 								<div class="row">
 									<div class="col-6" data-toggle="modal" data-target="#doc_margarita_duarte">
-										<img src="/assets/images/dr_musa/dra (4).png" alt="">
+										<img src="/assets/images/dr_musa/dra (4).png" alt="" class="photo">
 									</div>
 									<div class="col-6" data-toggle="modal" data-target="#doc_juan_vele">
-										<img src="/assets/images/dr_musa/dr (7).png" alt="">
+										<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
 									</div>
 								</div>
 							</div>
@@ -591,7 +600,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="">
+								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -603,7 +612,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercad">
-								<img src="/assets/images/dr_musa/dr (9).png" alt="">
+								<img src="/assets/images/dr_musa/dr (9).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -619,7 +628,7 @@ Inicio del Programa -->
 								<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_mario_enrique">
-								<img src="/assets/images/dr_musa/dr (10).png" alt="">
+								<img src="/assets/images/dr_musa/dr (10).png" alt="" class="photo">
 							</div>
 						</div>	
 					</li>
@@ -675,7 +684,7 @@ Action box START -->
 				<div class="bg-primary bg-opacity-10 rounded-3 p-5 h-100">
 					Image
 					<div class="position-absolute bottom-0 end-0 me-3">
-						<img src="assets/images/element/musa1-pa.png" class="h-100px h-sm-200px" alt="">
+						<img src="assets/images/element/musa1-pa.png" class="h-100px h-sm-200px" alt="" >
 					</div>	
 					Content
 					<div class="row">
