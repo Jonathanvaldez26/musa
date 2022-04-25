@@ -21590,5 +21590,9 @@ html[dir=rtl] .choices__input {
   }
 }
 
+.photo{
+  cursor: pointer;
+}
+
 /*User CSS*/
 /*# sourceMappingURL=style.css.map */
