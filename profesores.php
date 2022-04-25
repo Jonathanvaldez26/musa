@@ -303,6 +303,81 @@ Inicio del Programa -->
 
 						</div>
 					</li>
+
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">DRA. ELSA DÍAZ - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Especialista en el diagnóstico y tratamiento de colposcopía, colposcopía operatoria, electrocirugía, criocirugía y tratamientos de tracto genital inferior. Egresada de la (UNAM), posteriormente realizo la Especialidad en la (ULSA). Está certificada y recertificada por el Consejo de Ginecología y Obstetricia de México y actualmente es vocal del Colegio Mexicano de Especialistas en Ginecología y Obstetricia en la Ciudad de México. </i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_elsa_dia"> 
+								<img src="/assets/images/dr_musa/dra (3).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
+
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">DR. DAVID BARRIOS MARTÍNEZ - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Médico cirujano por la Facultad de Medicina de la UNAM, con 40 años dedicados a la Docencia e Investigación en Sexología. Educador en Sexualidad por la Sociedad Mexicana de Sexología Humanista, También es psicoterapeuta Gestalt centrado en la persona, por el Instituto humanista de Psicoterapia Gestalt y Maestro en Ciencias sexológicas por la Universidad Abierta de México. Fue presidente de la Federación Mexicana de Educación Sexual y Sexología. </i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio"> 
+								<img src="/assets/images/dr_musa/dr (3).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
+
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">DR. GABRIEL GALLO -MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia egresado de la Universidad Nacional Autónoma de México. </i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio">
+							<img src="/assets/images/dr_musa/dr (4).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
+
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">DR. MANUEL MIRASSOU - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Médico Cirujano egresado de la Facultad de Medicina de la U.N.A.M, médico del Hospital Español (Ciudad de México), miembro fundador de la (AMMOM), presidente de la asociación mexicana de metabolismo óseo y mineral e investigador clínico en diversos estudios relacionados con osteoporosis, osteoartropatías y síndrome metabólico.</i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_manuel_mirasso">
+							<img src="/assets/images/dr_musa/dr (8).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
+
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">Dr. JUAN VÉLEZ - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Médico Cirujano y Partero, egresado de la Universidad de Guadalajara. Con especialidad en psiquiatría en el Instituto Nacional de Neurología y Neurocirugía en la Ciudad de México. Trabajó por 10 años en la clínica de sueño de la UNAM en la Ciudad de México y 11 años como psiquiatra en el Gobierno de la Ciudad de México. Fue profesor de psiquiatría en la Facultad de Medicina de la Universidad Lasalle y actualmente dedica a la práctica privada por consulta virtual con sede en el hospital Médica Sur en la Ciudad de México.</i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_juan_vele">
+							<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
 					
 				</ul>
 				
