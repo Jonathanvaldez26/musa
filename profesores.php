@@ -368,7 +368,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">Dr. JUAN VÉLEZ - MÉXICO</h4>
+								<h4  style="color: rgb(98 56 246);">DR. JUAN VÉLEZ - MÉXICO</h4>
 								<b><i style="color: rgb(64 52 124);">Médico Cirujano y Partero, egresado de la Universidad de Guadalajara. Con especialidad en psiquiatría en el Instituto Nacional de Neurología y Neurocirugía en la Ciudad de México. Trabajó por 10 años en la clínica de sueño de la UNAM en la Ciudad de México y 11 años como psiquiatra en el Gobierno de la Ciudad de México. Fue profesor de psiquiatría en la Facultad de Medicina de la Universidad Lasalle y actualmente dedica a la práctica privada por consulta virtual con sede en el hospital Médica Sur en la Ciudad de México.</i></b>
 							</div>
 
