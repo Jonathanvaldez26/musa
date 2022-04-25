@@ -129,13 +129,13 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada <p></p> </a></h5>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Fríos. <p></p> </a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<p class="text-truncate-1 mb-3">Canapés Fríos.</p>
+								
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul style="color: black; font-size: small;">
 										<!-- <li class="li-numb">
@@ -187,13 +187,13 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Plato Fuerte</a></h5>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Calientes.</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<p class="text-truncate-2 mb-3">Canapés Calientes.</p>
+								
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul style="color: black;">
 										<li class="li-numb">
@@ -247,7 +247,7 @@ Inner part START -->
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
 									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Postre  <p></p></a></h5>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Dulces.  <p></p></a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Postre para todas las edades.</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light"> -->
@@ -255,7 +255,7 @@ Inner part START -->
 										80.00</span> -->
 								</div>
 								<!-- Content -->
-								<p class="text-truncate-2 mb-3">Canapés Dulces.</p>
+								
 							
 								<div id="card-movil" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
 									<ul style="color: black;">
@@ -348,7 +348,7 @@ Inner part START -->
 								</li> -->
 								<li class="li-numb">
 									<p>
-									Tostada de marlin, alíoli de chipotle y microgreens.
+									Tartar de salmón, aguacate y piña rostizada.
 									</p>
 								</li>
 							</ul>

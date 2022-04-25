@@ -166,7 +166,7 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: pink;"><i class="fas fa-first-aid"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: pink;"></div>
 							<div class="col-12 col-md-9">
 								<h5 class="mb-0"><a href="#b1" class="stretched-link ">Bloque 1</a></h5>
 								<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
@@ -182,7 +182,7 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #d3fff4;"><i class="fas fa-virus"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #d3fff4;"></div>
 							<div class="col-12 col-md-9">
 								<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
 								<span>INFECCIONES GENITOURINARIAS</span>
@@ -198,7 +198,7 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #bdfab6;"><i class="fas fa-cloud"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #bdfab6;"></div>
 							<div class="col-md-9">
 								<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
 								<span>CLIMATERIO</span>
@@ -216,7 +216,6 @@ Category START -->
 						<!-- Icon -->
 						<div class="row m-1">
 							<div class="icon-lg bg-opacity-10 rounded-circle text-purple col-md-3" style="background-color: #9438f675;">
-								<i class="fas fa-heartbeat"></i>
 							</div>
 							<div class="col-md-9">
 								<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
@@ -243,10 +242,10 @@ Inicio del Programa -->
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
-					<li class="list-group-item list-borderless">
+					<!-- <li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Llegadas, check-in</h4>
-					</li>
+					</li> -->
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">19:00:00 - 21:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Coctail de Bienvenida</h4>
@@ -420,7 +419,7 @@ Inicio del Programa -->
 					</li>
 				</ul>
 				<ul id="b3" class="list-group">
-					<li class="list-group-item list-borderless my-2">
+					<!-- <li class="list-group-item list-borderless my-2">
 						<hr>
 						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
 					</li>
@@ -491,7 +490,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">18:10:00 - 20:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Tiempo Libre</h4>
-					</li>
+					</li> -->
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">20:00:00 - 21:30:00</h5>
 						<h4  style="color: rgb(98 56 246);">Cena</h4>

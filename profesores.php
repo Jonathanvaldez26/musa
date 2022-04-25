@@ -180,7 +180,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DRA. CORTÉS, EDNA – MÉXICO</h4>
+								<h4  style="color: rgb(98 56 246);">DRA. EDNA CORTÉS – MÉXICO</h4>
 								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia, especialista en tratamientos como: Urología Ginecológica, Incontinencia, Prolapso Genital, Problemas de Piso Pélvico, entre otros. </i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_edna_cortes">
@@ -191,7 +191,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<div class="row">
 							<div class="col-9">
-								<h4  style="color: rgb(98 56 246);">DR. RENCORET, CARLOS – CHILE</h4>
+								<h4  style="color: rgb(98 56 246);">DR. CARLOS RENCORET – CHILE</h4>
 								<b><i style="color: rgb(64 52 124);">Médico cirujano de la Universidad de Chile. Especialista en Ginecología y Obstetricia Facultad de Medicina de la Universidad de Chile. Especialista en Oncología Mamaria Unidad Patología Mamaria Hospital San Borja Arriarán.</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_rencornet"> 
@@ -203,7 +203,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DR. NEYRO, JOSÉ LUIS - ESPAÑA</h4>
+								<h4  style="color: rgb(98 56 246);">DR. JOSÉ LUIS NEYRO - ESPAÑA</h4>
 								<b><i style="color: rgb(64 52 124);">Médico Especialista en Obstetricia y Ginecología y Profesor de Post-Grado (Máster y Doctorado), en diferentes universidades nacionales e internacionales. Especialista en Climaterio y Menopausia.</i></b>
 							</div>
 
@@ -218,7 +218,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DR. TELLEZ VELASCO, CÉSAR - MÉXICO</h4>
+								<h4  style="color: rgb(98 56 246);">DR. CÉSAR TELLEZ VELASCO - MÉXICO</h4>
 								<b><i style="color: rgb(64 52 124);">Médico, psiquiatra y terapeuta sexual y de pareja, con más de 25 años de experiencia en la atención de individuos y parejas. Ha sido profesor universitario en México y España, conferencista e investigador.</i></b>
 							</div>
 
@@ -233,7 +233,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DR. TIRÁN SAUDECO, JOSÉ - MÉXICO</h4>
+								<h4  style="color: rgb(98 56 246);">DR. JOSÉ TIRÁN SAUDECO - MÉXICO</h4>
 								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia egresado del Instituto Tecnológico y de Estudios Superiores de Monterrey. Atiende a sus pacientes en el Hospital San José de la ciudad de Monterrey.</i></b>
 							</div>
 
@@ -248,7 +248,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DRA. ZANCHETTA, MARÍA BELÉN - ARGENTINA</h4>
+								<h4  style="color: rgb(98 56 246);">DRA. MARÍA BELÉN ZANCHETTA - ARGENTINA</h4>
 								<b><i style="color: rgb(64 52 124);">Especialista en Endocrinología de la Universidad de Buenos Aires. Magíster en Osteología y Metabolismo Mineral. Directora médica y académica de IDIM y de la cátedra de post grado en Osteología y Metabolismo de la Universidad del Salvador.</i></b>
 							</div>
 
@@ -263,7 +263,7 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: rgb(98 56 246);">DRA. DUARTE, MARGARITA - PARAGUAY</h4>
+								<h4  style="color: rgb(98 56 246);">DRA. MARGARITA DUARTE - PARAGUAY</h4>
 								<b><i style="color: rgb(64 52 124);">Doctora en Medicina y Cirugía, especialista en Medicina Interna de la Facultad de Ciencias Médicas de la Universidad Nacional de Asunción y Especialista en Reumatología – Goethe Universitat de Frankfurt am Main, Alemania.</i></b>
 							</div>
 
