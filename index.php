@@ -64,6 +64,7 @@
 					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 
 					<!-- Nav item 1 Demos -->
 					<!-- <li class="nav-item dropdown">

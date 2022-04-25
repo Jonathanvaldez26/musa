@@ -58,6 +58,7 @@
 					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 				</ul>
 				<div id="adium-nb" class="navbar-brand">
 					<img class="logo-ha" id="adium" src="assets/images/adium.png" alt="logo">
@@ -305,7 +306,7 @@ Footer START -->
 					</div> -->
 
 					<!-- Link block -->
-					<div class="col-6 col-md-4">
+					<!-- <div class="col-6 col-md-4">
 						<h5 class="mb-2 mb-md-4">Profesores</h5>
 						<ul class="nav flex-column" id="menu">
 							<li class="nav-item">
@@ -318,7 +319,7 @@ Footer START -->
 							   </ul>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<!-- Widget 2 END -->
