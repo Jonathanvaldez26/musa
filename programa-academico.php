@@ -165,7 +165,7 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-danger bg-opacity-10 rounded-circle text-danger col-12 col-md-3"><i class="fas fa-heartbeat"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: pink;"><i class="fas fa-first-aid"></i></div>
 							<div class="col-12 col-md-9">
 								<h5 class="mb-0"><a href="#b1" class="stretched-link ">Bloque 1</a></h5>
 								<span>HORMONAS, SALUD SEXUAL Y EMOTIVA: EL ARTE DE PRESCRIBIR</span>
@@ -181,7 +181,7 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-blue bg-opacity-10 rounded-circle text-blue col-12 col-md-3"><i class="fas fa-video"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #d3fff4;"><i class="fas fa-virus"></i></div>
 							<div class="col-12 col-md-9">
 								<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
 								<span>INFECCIONES GENITOURINARIAS</span>
@@ -197,10 +197,11 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-success bg-opacity-10 rounded-circle text-success col-md-3"><i class="fas fa-laptop-code"></i></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #bdfab6;"><i class="fas fa-cloud"></i></div>
 							<div class="col-md-9">
 								<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
 								<span>CLIMATERIO</span>
+								<span style="color: transparent;" >CLIMATERIO</span>
 							</div>
 						</div>
 					</div>
@@ -213,8 +214,8 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-purple bg-opacity-10 rounded-circle text-purple col-md-3">
-								<i class="fas fa-tools"></i>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-purple col-md-3" style="background-color: #9438f675;">
+								<i class="fas fa-heartbeat"></i>
 							</div>
 							<div class="col-md-9">
 								<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
@@ -826,33 +827,33 @@ Footer START -->
 Footer END -->
 
 <!-- Sticky element START -->
-<div class="alert alert-dismissible sticky-element fade show bg-dark text-white rounded-3 shadow p-4 ms-3 mb-3 col-10 col-md-4 col-lg-3 col-xl-2 d-none d-lg-block" role="alert">
+<!-- <div class="alert alert-dismissible sticky-element fade show bg-dark text-white rounded-3 shadow p-4 ms-3 mb-3 col-10 col-md-4 col-lg-3 col-xl-2 d-none d-lg-block" role="alert">
 	<div class="d-sm-flex align-items-center">
-		<!-- Avatar -->
+		Avatar
 		<div>
 			<div class="icon-lg bg-purple rounded-circle text-purple">
 				<img id="w-a" class="p-3" src="assets/images/university/wa.svg" alt="whatsapp">
 			</div>
 		</div>
-		<!-- Info -->
+		Info
 		<div class="ms-sm-2 mt-2 mt-sm-0">
 			<h6 class="mb-0 text-white">Contactanos</h6>
 			<span class="small mb-0 me-3">
 				<i class="fas fa-phone text-white me-2"></i>+52 55 1234 5678</span>
 			
-			<!-- <span class="small mb-0 me-1"><i class="fas fa-circle fw-bold text-success small me-2"></i>Live</span> -->
+			<span class="small mb-0 me-1"><i class="fas fa-circle fw-bold text-success small me-2"></i>Live</span>
 		</div>
 	</div>
-	<!-- <p class="mb-0 small">Its recommended that you complete this assignment to improve your design skills for graphics</p> -->
+	<p class="mb-0 small">Its recommended that you complete this assignment to improve your design skills for graphics</p>
 
 	
-  <!-- Close button -->
+  Close button
 	<div class="position-absolute end-0 top-0 mt-n3 me-n3">
     <button type="button" class="btn btn-danger btn-round btn-sm mb-0" data-bs-dismiss="alert" aria-label="Close">
 	    <span aria-hidden="true"><i class="bi bi-x-lg"></i></span>
 	  </button>
   </div>
-</div>
+</div> -->
 <!-- Sticky element START -->
 
 <!-- Back to top -->
