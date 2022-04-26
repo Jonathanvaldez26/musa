@@ -379,6 +379,20 @@ Inicio del Programa -->
 						</div>
 					</li>
 					
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-9">
+								
+								<h4  style="color: rgb(98 56 246);">DR. VÍCTOR MERCADO - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);"></i></b>
+							</div>
+
+							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercado">
+							<img src="/assets/images/dr_musa/dr (9).png" alt="" class="photo">
+							</div>
+
+						</div>
+					</li>
 				</ul>
 				
 			</div>
