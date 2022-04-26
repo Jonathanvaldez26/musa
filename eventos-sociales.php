@@ -293,7 +293,10 @@ Page Banner START -->
 						
 						<h2 style="text-shadow: 5px 5px 7px olivedrab;">Cóctel de Bienvenida</h2>
 						<h6>28 Abril 2022</h6>
-						<p style="color: black;">Acompañenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<h6>19:00 hrs</h6>
+						
+						<p style="color: black;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<p style="color: black;">Lugar: Playón Pirámide.</p>
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
 						
@@ -403,7 +406,9 @@ Page Banner START -->
 						
 						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
 						<h6 style="color: white;">29 Abril 2022</h6>
-						<p style="color: #ddd;">Sea participe de nuestro evento final y acompañenos para pasar una agradable velada.</p>
+						<h6 style="color: white;">20:00 hrs</h6>
+						<p style="color: #ddd;">Sea participe de nuestro evento final y acompáñenos para pasar una agradable velada.</p>
+						<p style="color: #ddd;">Lugar: Explanada Teatro del Agua.</p>
 						
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
