@@ -242,10 +242,10 @@ Inicio del Programa -->
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
-					<!-- <li class="list-group-item list-borderless">
+					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">10:00:00 - 19:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Llegadas, check-in</h4>
-					</li> -->
+					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">19:00:00 - 21:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Coctail de Bienvenida</h4>
@@ -419,7 +419,7 @@ Inicio del Programa -->
 					</li>
 				</ul>
 				<ul id="b3" class="list-group">
-					<!-- <li class="list-group-item list-borderless my-2">
+					<li class="list-group-item list-borderless my-2">
 						<hr>
 						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
 					</li>
@@ -490,7 +490,7 @@ Inicio del Programa -->
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">18:10:00 - 20:00:00</h5>
 						<h4  style="color: rgb(98 56 246);">Tiempo Libre</h4>
-					</li> -->
+					</li>
 					<li class="list-group-item list-borderless">
 						<h5 style="color: rgb(0 222 191);">20:00:00 - 21:30:00</h5>
 						<h4  style="color: rgb(98 56 246);">Cena</h4>
