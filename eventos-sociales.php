@@ -391,7 +391,7 @@ Page Banner START -->
 
 					<div class="col-md-6">
 						<!-- Title -->
-						<div class="jumbotron countdown show mt-3"  data-Date='2022/04/29 22:30:00'>
+						<div class="jumbotron countdown show mt-3"  data-Date='2022/04/29 21:00:00'>
 							<div class="running">
 								<timer>
 								<div class="row">
