@@ -276,12 +276,6 @@ Page Banner START -->
 				<div class="row g-4 align-items-center">
 					<div class="col-md-6">
 						<!-- Title -->
-						
-						<h2 style="text-shadow: 5px 5px 7px olivedrab;">Cóctel de Bienvenida</h2>
-						<h6>28 Abril 2022</h6>
-						<p style="color: black;">Acompañenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
-						<!-- Button -->
-						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
 						<div class="jumbotron countdown show mt-3" data-Date='2022/04/28 20:00:00'>
 							<div class="running">
 								<timer style="color: #000;">
@@ -296,6 +290,13 @@ Page Banner START -->
 								</timer>
 							</div>
 						</div>
+						
+						<h2 style="text-shadow: 5px 5px 7px olivedrab;">Cóctel de Bienvenida</h2>
+						<h6>28 Abril 2022</h6>
+						<p style="color: black;">Acompañenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<!-- Button -->
+						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
+						
 					</div>
 
 					<div class="col-md-6 text-center">
@@ -387,10 +388,6 @@ Page Banner START -->
 
 					<div class="col-md-6">
 						<!-- Title -->
-						
-						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
-						<h6 style="color: white;">29 Abril 2022</h6>
-						<p style="color: #ddd;">Sea participe de nuestro evento final y acompañenos para pasar una agradable velada.</p>
 						<div class="jumbotron countdown show mt-3"  data-Date='2022/04/29 22:30:00'>
 							<div class="running">
 								<timer>
@@ -403,6 +400,11 @@ Page Banner START -->
 								</timer>
 							</div>
 						</div>
+						
+						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
+						<h6 style="color: white;">29 Abril 2022</h6>
+						<p style="color: #ddd;">Sea participe de nuestro evento final y acompañenos para pasar una agradable velada.</p>
+						
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
 					</div>
