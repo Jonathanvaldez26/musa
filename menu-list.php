@@ -332,7 +332,7 @@ Inner part START -->
 										</li> -->
 										<li class="li-numb">
 											<p>
-												Tartar de salmón, aguacate y piña rostizada.
+												Tostada de marlín, alioli de chipotle y microgreens.
 											</p>
 										</li>
 									</ul>
@@ -348,7 +348,7 @@ Inner part START -->
 								</li> -->
 								<li class="li-numb">
 									<p>
-									Tartar de salmón, aguacate y piña rostizada.
+									 Tostada de marlín, alioli de chipotle y microgreens.
 									</p>
 								</li>
 							</ul>
