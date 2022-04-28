@@ -384,7 +384,13 @@ Inicio del Programa -->
 							<div class="col-9">
 								
 								<h4  style="color: rgb(98 56 246);">DR. VÍCTOR MERCADO - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);"></i></b>
+								<b><i style="color: rgb(64 52 124);">Egresado de la Universidad Autónoma de Guadalajara
+Especialidad en Ginecologia y Obstetricia en el Hospital de Mexico 
+Certificado por el Consejo de la Especialidad 
+Investigador Clínico en Climaterio y Osteoporosis 
+Ex presidente de la AMMOM ( Asociacion Mexicana de Metabolismo Óseo y Mineral A.C.)
+Miembro actual del RAC Latinoamericano de la International Osteoporosis Fundation (IOF)
+Titular de la Clínica Integral de Menopausia del Centro Médico Dalinde</i></b>
 							</div>
 
 							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercado">
